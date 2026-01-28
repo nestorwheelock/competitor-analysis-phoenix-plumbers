@@ -13346,6 +13346,75 @@ Based on entity classification and competitive power analysis:
 
 ---
 
+## 6.4 ROC License Analysis
+
+The Arizona Registrar of Contractors (ROC) requires all contractors to be licensed. Only **34% of competitors** (41 of 122) display ROC license numbers on their websites.
+
+### Competitors with ROC License Numbers
+
+| Business | License # | Status |
+|----------|-----------|--------|
+| A to Z Prestigious Plumbing | 301192 | Unverified |
+| Adept Plumbing LLC | 327569 | Unverified |
+| Alpha-Plumbing Services | 345448 | Unverified |
+| American Home Water & Air | 326384 | Unverified |
+| Amigo Rooter & Plumbing | 266140 | Unverified |
+| ATS Plumbing Inc. | 210078 | Unverified |
+| Aurora Plumbing and Mechanical LLC | 311936 | Unverified |
+| AZ Pro Plumbing and Drain, LLC | 334896 | Unverified |
+| Burnett's Plumbing | 345309 | Unverified |
+| Cactus Plumbing & Air | 336755 | Unverified |
+| Canyon Plumbing Solutions | 357691 | Unverified |
+| Canyon State Service Experts | 332582 | Unverified |
+| Courtesy Plumbing of AZ, LLC | 268469 | Unverified |
+| Donley A/C & Plumbing | 053957 | Unverified |
+| Edge Plumbing | 356513 | Unverified |
+| Emergency Plumbing Hero | 349522 | Unverified |
+| Flush King Plumbing | 324492 | Unverified |
+| Hotrod Plumbing | 356114 | Unverified |
+| JV7 Plumbing LLC | 321633 | Unverified |
+| Leak Hunters: Leak Detection | 359914 | Unverified |
+| Lee's Air, Plumbing, & Heating | 358197 | Unverified |
+| Parker & Sons | 152654 | Unverified |
+| Patriotic Plumbing And Rooter | 339467 | Unverified |
+| Pink Plumbing and Sewer | 299159 | Unverified |
+| Plumbing Masters | 255233 | Unverified |
+| PlumbSmart Plumbing Heating and Air | 223709 | Unverified |
+| POP Plumbing LLC - Glendale | 325091 | Unverified |
+| Pridemark Plumbing | 319398 | Unverified |
+| Rapid Rooter Plumbing | 236540 | Unverified |
+| Robins Plumbing Inc | 203677 | Unverified |
+| Roto-Rooter Plumbing & Water Cleanup | 326496 | Unverified |
+| Set Apart Plumbing LLC | 353020 | Unverified |
+| Sigma Pro Plumbing | 352505 | Unverified |
+| Smiley Plumbing | 145493 | Unverified |
+| Spartan Plumbing Solutions LLC | 335336 | Unverified |
+| Sun City Action Plumbers | 996688 | Unverified |
+| The Family Plumber, LLC | 331873 | Unverified |
+
+### Verification Note
+
+License numbers were extracted from competitor websites but have not yet been verified against the Arizona ROC database. The ROC website (roc.az.gov) implements geographic access restrictions that blocked automated verification.
+
+**Future Enhancement:** A subsequent research iteration will utilize Arizona-based VPN infrastructure to access the state ROC database for full verification, including:
+- License status (Active/Suspended/Revoked)
+- Expiration dates
+- Bond and insurance verification
+- Complaint history
+- Classification codes
+
+**Manual Verification:** [Arizona ROC Contractor Search](https://roc.az.gov/contractor-search)
+
+### Competitive Implication
+
+| Finding | Opportunity |
+|---------|-------------|
+| 66% don't display ROC license | Trust differentiation |
+| License visibility = credibility | Prominent display recommended |
+| Unlicensed operators may exist | Due diligence advantage |
+
+---
+
 ## 7. Appendices
 
 ### Appendix A: Data Dictionary

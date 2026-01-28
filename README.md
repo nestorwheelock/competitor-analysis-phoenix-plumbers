@@ -974,6 +974,94 @@ Each competitor section includes:
 
 ---
 
+## ROC License Analysis
+
+### Overview
+
+The Arizona Registrar of Contractors (ROC) requires all contractors to be licensed. Displaying a valid ROC license number is a trust signal that differentiates legitimate businesses from unlicensed operators.
+
+**Key Finding:** Only **34% of competitors** (41 of 122) display ROC license numbers on their websites. This presents a significant trust differentiation opportunity.
+
+### Competitors with ROC License Numbers
+
+| Business | License # | Verified |
+|----------|-----------|----------|
+| A to Z Prestigious Plumbing | 301192 | Pending |
+| Adept Plumbing LLC | 327569 | Pending |
+| Alpha-Plumbing Services | 345448 | Pending |
+| American Home Water & Air | 326384 | Pending |
+| Amigo Rooter & Plumbing | 266140 | Pending |
+| ATS Plumbing Inc. | 210078 | Pending |
+| Aurora Plumbing and Mechanical LLC | 311936 | Pending |
+| AZ Pro Plumbing and Drain, LLC | 334896 | Pending |
+| Burnett's Plumbing | 345309 | Pending |
+| Cactus Plumbing & Air | 336755 | Pending |
+| Canyon Plumbing Solutions | 357691 | Pending |
+| Canyon State Service Experts | 332582 | Pending |
+| Courtesy Plumbing of AZ, LLC | 268469 | Pending |
+| Donley A/C & Plumbing | 053957 | Pending |
+| Edge Plumbing | 356513 | Pending |
+| Emergency Plumbing Hero | 349522 | Pending |
+| Flush King Plumbing | 324492 | Pending |
+| Hotrod Plumbing | 356114 | Pending |
+| JV7 Plumbing LLC | 321633 | Pending |
+| Leak Hunters: Leak Detection | 359914 | Pending |
+| Lee's Air, Plumbing, & Heating | 358197 | Pending |
+| Parker & Sons | 152654 | Pending |
+| Patriotic Plumbing And Rooter | 339467 | Pending |
+| Pink Plumbing and Sewer | 299159 | Pending |
+| Plumbing Masters | 255233 | Pending |
+| PlumbSmart Plumbing Heating and Air | 223709 | Pending |
+| POP Plumbing LLC - Glendale | 325091 | Pending |
+| Pridemark Plumbing | 319398 | Pending |
+| Rapid Rooter Plumbing | 236540 | Pending |
+| Robins Plumbing Inc | 203677 | Pending |
+| Roto-Rooter Plumbing & Water Cleanup | 326496 | Pending |
+| Set Apart Plumbing LLC | 353020 | Pending |
+| Sigma Pro Plumbing | 352505 | Pending |
+| Smiley Plumbing | 145493 | Pending |
+| Spartan Plumbing Solutions LLC | 335336 | Pending |
+| Sun City Action Plumbers | 996688 | Pending |
+| The Family Plumber, LLC | 331873 | Pending |
+
+### Verification Status
+
+License numbers were extracted from competitor websites but **have not yet been verified** against the Arizona ROC database.
+
+**Why Pending:** The Arizona ROC website (roc.az.gov) implements geographic access restrictions that blocked automated verification from our data collection infrastructure.
+
+**Future Enhancement:** A future iteration of this research will utilize Arizona-based VPN endpoints to access the state ROC database directly. This will enable:
+
+- License status verification (Active, Suspended, Revoked)
+- Expiration date tracking
+- Bond amount and insurance verification
+- Complaint history analysis
+- Qualifying party identification
+- Classification code verification (C-37 Plumbing, C-4 Boiler, etc.)
+
+### Competitive Opportunity
+
+| Metric | Value | Implication |
+|--------|-------|-------------|
+| Competitors displaying ROC | 41 (34%) | 66% don't show license |
+| Competitors without visible ROC | 81 (66%) | Trust gap opportunity |
+
+**Recommendation:** Prominently display your ROC license number in:
+- Website header/footer
+- Google Business Profile
+- All marketing materials
+- Service vehicle signage
+- Invoices and estimates
+
+This establishes immediate credibility over the 66% of competitors who don't display licensing information.
+
+### Manual Verification
+
+Until automated verification is available, licenses can be manually verified at:
+**[Arizona ROC Contractor Search](https://roc.az.gov/contractor-search)**
+
+---
+
 ## Data Sources
 
 | Source | Coverage | Confidence |
@@ -983,6 +1071,7 @@ Each competitor section includes:
 | PageSpeed Insights | 102 sites | High |
 | Keyword Extraction | 95 sites | Medium |
 | Domain Intelligence | 47 sites | Medium |
+| ROC License Extraction | 41 licenses | Medium (unverified) |
 
 ---
 
