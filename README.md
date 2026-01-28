@@ -958,9 +958,14 @@ Every blog post must include:
 
 ## Reports
 
-| Report | Date | Competitors | Description |
-|--------|------|-------------|-------------|
-| [market-research-2026-01-28.md](./market-research-2026-01-28.md) | January 2026 | 122 | Full market analysis with per-competitor deep dives |
+### Full Market Research Reports
+
+| Report | Language | Competitors | Description |
+|--------|----------|-------------|-------------|
+| [market-research-2026-01-28.md](./market-research-2026-01-28.md) | English | 122 | Full market analysis with per-competitor deep dives |
+| [market-research-2026-01-28.es.md](./market-research-2026-01-28.es.md) | Español | 122 | Análisis completo del mercado con análisis por competidor |
+
+**Note:** The detailed reports contain 300+ pages of analysis including individual competitor profiles with technology stacks, keyword analysis, performance metrics, and competitive assessments.
 
 ### Report Contents (Per Competitor)
 

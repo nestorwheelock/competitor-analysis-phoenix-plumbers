@@ -363,9 +363,14 @@ Utiliza el método del Rango Intercuartílico:
 
 ## Informes
 
-| Informe | Fecha | Competidores | Descripción |
-|---------|-------|--------------|-------------|
-| [market-research-2026-01-28.md](./market-research-2026-01-28.md) | Enero 2026 | 122 | Análisis completo del mercado con análisis profundo por competidor |
+### Informes Completos de Investigación de Mercado
+
+| Informe | Idioma | Competidores | Descripción |
+|---------|--------|--------------|-------------|
+| [market-research-2026-01-28.md](./market-research-2026-01-28.md) | English | 122 | Full market analysis with per-competitor deep dives |
+| [market-research-2026-01-28.es.md](./market-research-2026-01-28.es.md) | Español | 122 | Análisis completo del mercado con análisis por competidor |
+
+**Nota:** Los informes detallados contienen más de 300 páginas de análisis incluyendo perfiles individuales de competidores con stacks tecnológicos, análisis de palabras clave, métricas de rendimiento y evaluaciones competitivas.
 
 ---
 
