@@ -27,17 +27,33 @@
 | Avg Reviews | 676 | 100+ (Year 1) |
 | Sites with 30+ pages | 20 competitors | Match |
 
-### 1.2 Content Benchmarks
+### 1.2 Content Benchmarks (Top 25% Targets)
 
-| Page Type | Market Avg | Our Target |
-|-----------|-----------|------------|
-| Homepage word count | 2,745 | 3,500+ |
-| Service page word count | 1,500 | 2,000+ |
-| Location page word count | 800 | 1,500+ |
-| Blog post word count | 1,200 | 2,000+ |
-| Total site pages | 15-30 | 40+ (Year 1) |
+| Page Type | Market Avg | Top 25% Target | Our Target |
+|-----------|-----------|----------------|------------|
+| Homepage word count | 2,745 | 3,500+ | **3,500+** |
+| Service page word count | 1,500 | 2,500+ | **2,500+** |
+| Location page word count | 800 | 1,500+ | **1,500+** |
+| Blog post word count | 1,200 | 2,000+ | **2,000+** |
+| Total site pages | 15-30 | 30+ | **30+ (Phase 1)** |
+| Blog posts | 0-5 | 10+ | **10+ (Month 2)** |
+| Location pages | 0-3 | 5+ | **9 (all markets)** |
+| Google rating | 4.84 | 4.8+ | **4.9+** |
+| Reviews | 45 | 100+ | **100+ (Year 1)** |
 
-### 1.3 Differentiation Strategy
+**Total Content Target:** 56,300+ words across 30+ pages
+
+### 1.3 Competitive Positioning Options
+
+| Strategy | Target | Investment | Timeline |
+|----------|--------|------------|----------|
+| **Niche Specialist** | Specific service (tankless, drain) | Low | 6-12 months |
+| **Geographic Dominator** | Specific ZIP codes (Waddell, Litchfield) | Medium | 12-18 months |
+| **Full-Service Challenger** | Broad market | High | 24+ months |
+
+**Recommended Approach:** Start as Geographic Dominator in underserved markets, then expand.
+
+### 1.4 Differentiation Strategy
 
 Based on competitor analysis, differentiate through:
 
@@ -51,52 +67,116 @@ Based on competitor analysis, differentiate through:
 
 ## 2. Target Keywords by Category
 
-### 2.1 Emergency Keywords (Highest Intent)
+> **Note:** Keywords organized by value category with CPC estimates and competition levels from market research.
 
-| Keyword | Est. Monthly Volume | Intent | Priority |
-|---------|-------------------|--------|----------|
-| emergency plumber | 90,500 | Transactional | P1 |
-| 24 hour plumber | 33,100 | Transactional | P1 |
-| emergency plumber near me | 27,100 | Transactional | P1 |
-| 24 hour plumber near me | 14,800 | Transactional | P1 |
-| plumber open now | 8,100 | Transactional | P1 |
-| same day plumber | 4,400 | Transactional | P2 |
-| weekend plumber | 2,400 | Transactional | P2 |
+---
 
-### 2.2 General Service Keywords
+### 2.1 Emergency Services (HIGHEST INTENT - Immediate Purchase)
 
-| Keyword | Est. Monthly Volume | Intent | Priority |
-|---------|-------------------|--------|----------|
-| plumber near me | 450,000 | Transactional | P1 |
-| plumbing services | 40,500 | Commercial | P1 |
-| plumbing repair | 22,200 | Transactional | P1 |
-| local plumber | 18,100 | Transactional | P1 |
-| residential plumber | 6,600 | Commercial | P2 |
+**Why High Value:** Emergency searches have immediate purchase intent. Users will call the first plumber they find.
 
-### 2.3 Drain Cleaning Keywords
+| Keyword | Monthly Vol | CPC Est. | Competition | Priority |
+|---------|-------------|----------|-------------|----------|
+| 24 hour plumber near me | 14,800 | $45-65 | None locally | **CRITICAL** |
+| emergency plumber | 12,100 | $50-70 | Low | **CRITICAL** |
+| plumber near me now | 8,100 | $40-60 | Medium | HIGH |
+| emergency plumbing service | 6,600 | $45-65 | Low | HIGH |
+| after hours plumber | 2,400 | $35-55 | None | HIGH |
+| weekend plumber | 1,600 | $30-50 | None | MEDIUM |
+| same day plumber | 1,300 | $35-55 | None | MEDIUM |
 
-| Keyword | Est. Monthly Volume | Intent | Priority |
-|---------|-------------------|--------|----------|
-| drain cleaning | 27,100 | Transactional | P1 |
-| clogged drain | 14,800 | Transactional | P1 |
-| drain cleaning service | 9,900 | Transactional | P1 |
-| hydro jetting | 1,600 | Commercial | P2 |
-| drain snake service | 1,300 | Transactional | P2 |
-| kitchen drain clogged | 2,900 | Transactional | P2 |
-| bathroom drain clogged | 2,400 | Transactional | P2 |
+**Recommended Landing Page:** `/emergency-plumber-phoenix/`
 
-### 2.4 Water Heater Keywords
+---
 
-| Keyword | Est. Monthly Volume | Intent | Priority |
-|---------|-------------------|--------|----------|
-| water heater repair | 18,100 | Transactional | P1 |
-| water heater installation | 14,800 | Transactional | P1 |
-| water heater replacement | 8,100 | Transactional | P1 |
-| hot water heater repair | 6,600 | Transactional | P2 |
-| no hot water | 12,100 | Informational | P2 |
-| tankless water heater installation | 2,900 | Transactional | P2 |
-| tankless water heater repair | 1,900 | Transactional | P2 |
-| water heater not working | 4,400 | Informational | P3 |
+### 2.2 Water Heater Services (HIGH REVENUE - $1,200-4,000/job)
+
+**Why High Value:** Water heater jobs average $1,200-4,000. High volume + high ticket = priority.
+
+| Keyword | Monthly Vol | CPC Est. | Competition | Priority |
+|---------|-------------|----------|-------------|----------|
+| water heater repair | 18,100 | $35-55 | None locally | **CRITICAL** |
+| water heater installation | 14,800 | $40-60 | None locally | **CRITICAL** |
+| no hot water | 12,100 | $25-40 | None | HIGH |
+| water heater replacement | 9,900 | $40-60 | Low | **CRITICAL** |
+| hot water heater repair | 8,100 | $35-50 | None | HIGH |
+| tankless water heater installation | 6,600 | $45-65 | Low | HIGH |
+| water heater not working | 4,400 | $30-45 | None | MEDIUM |
+| water heater leaking | 3,600 | $30-45 | None | MEDIUM |
+| tankless water heater cost | 2,900 | $35-50 | Low | MEDIUM |
+| water heater installation cost | 2,400 | $35-50 | Low | MEDIUM |
+
+**Recommended Landing Pages:**
+- `/water-heater-repair-phoenix/` (18,100 vol)
+- `/water-heater-installation-phoenix/` (14,800 vol)
+- `/tankless-water-heater-phoenix/` (6,600 vol)
+- `/no-hot-water/` (12,100 vol) - Problem-focused page
+
+---
+
+### 2.3 Drain & Sewer (RECURRING REVENUE)
+
+**Why High Value:** Drain issues are common, recurring, and often urgent.
+
+| Keyword | Monthly Vol | CPC Est. | Competition | Priority |
+|---------|-------------|----------|-------------|----------|
+| clogged drain | 14,800 | $20-35 | None locally | **CRITICAL** |
+| drain cleaning service | 9,900 | $25-40 | Low | **CRITICAL** |
+| sewer line repair | 8,100 | $40-60 | None | HIGH |
+| drain cleaning | 6,600 | $20-35 | Medium | HIGH |
+| clogged toilet | 6,600 | $15-30 | None | HIGH |
+| main sewer line clog | 3,600 | $35-50 | None | HIGH |
+| hydro jetting | 2,900 | $30-45 | Low | MEDIUM |
+| sewer camera inspection | 1,900 | $25-40 | None | MEDIUM |
+| drain cleaning near me | 1,600 | $25-40 | Low | MEDIUM |
+| sewer smell in house | 1,300 | $20-35 | None | MEDIUM |
+
+**Recommended Landing Pages:**
+- `/drain-cleaning-phoenix/` (9,900 vol)
+- `/clogged-drain/` (14,800 vol) - Problem-focused
+- `/sewer-line-repair-phoenix/` (8,100 vol)
+- `/hydro-jetting-phoenix/` (2,900 vol) - Service-specific
+
+---
+
+### 2.4 General Plumbing (BRAND BUILDING)
+
+**Why Important:** These searches build brand awareness and capture users earlier in the buying journey.
+
+| Keyword | Monthly Vol | CPC Est. | Competition | Priority |
+|---------|-------------|----------|-------------|----------|
+| plumber near me | 110,000 | $30-50 | Very High | MEDIUM |
+| plumber phoenix | 6,600 | $35-55 | High | HIGH |
+| plumber glendale az | 1,900 | $30-45 | Medium | HIGH |
+| plumber surprise az | 1,300 | $30-45 | Low | HIGH |
+| plumber peoria az | 880 | $30-45 | Low | HIGH |
+| plumber sun city az | 590 | $25-40 | Very Low | HIGH |
+| plumber waddell az | 140 | $25-40 | **None** | **HIGH** |
+
+**Strategy:** Create location pages targeting "[plumber] + [city]" for each service area.
+
+---
+
+### 2.5 Specific Repairs (LONG-TAIL - Lower competition, higher intent)
+
+| Keyword | Monthly Vol | CPC Est. | Competition | Priority |
+|---------|-------------|----------|-------------|----------|
+| toilet repair | 12,100 | $20-35 | None locally | HIGH |
+| leak detection | 9,900 | $25-40 | None | HIGH |
+| faucet repair | 8,100 | $20-35 | None | HIGH |
+| garbage disposal repair | 4,400 | $20-35 | None | MEDIUM |
+| water line repair | 3,600 | $30-45 | None | MEDIUM |
+| gas line repair | 2,900 | $35-50 | Low | MEDIUM |
+| pipe repair | 2,400 | $25-40 | Low | MEDIUM |
+| slab leak repair | 1,900 | $40-60 | Low | MEDIUM |
+| repiping | 1,600 | $35-55 | Low | MEDIUM |
+
+**Recommended Landing Pages:**
+- `/toilet-repair-phoenix/` (12,100 vol)
+- `/leak-detection-phoenix/` (9,900 vol)
+- `/faucet-repair-phoenix/` (8,100 vol)
+- `/garbage-disposal-repair-phoenix/` (4,400 vol)
+- `/gas-line-repair-phoenix/` (2,900 vol)
 
 ### 2.5 Sewer & Pipe Keywords
 
@@ -423,7 +503,9 @@ INCLUDE:
 #### PROMPT 5.2.1 - Drain Cleaning Service Page
 
 ```
-Write a comprehensive drain cleaning service page for a West Phoenix plumber. Target word count: 2,000+ words.
+Write a comprehensive drain cleaning service page for a West Phoenix plumber.
+
+**TARGET: 2,500+ words (Top 25% benchmark)**
 
 PRIMARY KEYWORDS:
 - drain cleaning
@@ -437,29 +519,37 @@ SECONDARY KEYWORDS:
 - bathroom drain clogged
 - sewer cleaning
 
-REQUIRED SECTIONS:
-1. Introduction (what causes clogged drains)
-2. Our drain cleaning services
-   - Hydro jetting
-   - Drain snaking
-   - Video camera inspection
-   - Main line cleaning
-3. Signs you need drain cleaning
-4. Drain types we service
+REQUIRED SECTIONS WITH WORD COUNTS:
+1. Introduction - what causes clogged drains (250 words)
+2. Our drain cleaning services (500 words)
+   - Hydro jetting (150 words)
+   - Drain snaking (100 words)
+   - Video camera inspection (100 words)
+   - Main line cleaning (150 words)
+3. Signs you need drain cleaning (300 words)
+4. Drain types we service (350 words)
    - Kitchen drains
    - Bathroom drains
    - Floor drains
    - Main sewer line
-5. Our process
-6. Prevention tips
-7. Why choose us
-8. Service areas
-9. FAQ section (5-7 questions)
-10. Call-to-action
+5. Our process - step by step (250 words)
+6. Prevention tips (300 words)
+7. Why choose us - trust signals (200 words)
+8. Service areas with cities (150 words)
+9. FAQ section - 7 questions minimum (400 words)
+10. Call-to-action with phone number (100 words)
 
-ARIZONA-SPECIFIC:
-- Mention common Arizona drain issues (tree roots, hard water buildup, desert debris)
-- Reference monsoon season flooding concerns
+ARIZONA-SPECIFIC CONTENT (weave throughout):
+- Tree roots from desert landscaping (olive, mesquite, palo verde)
+- Hard water mineral buildup (Phoenix water is 200+ ppm)
+- Desert debris and dust accumulation
+- Monsoon season flooding concerns
+- Older Phoenix homes with cast iron or clay pipes
+
+COMPETITOR BENCHMARK:
+- Roto-Rooter's drain page: 15,751 words
+- Market leaders average 3,500+ words on service pages
+- Include more detail than competitors to outrank them
 
 TONE: Expert, helpful, educational. Explain problems clearly to homeowners.
 ```
@@ -514,44 +604,61 @@ TONE: Informative, helpful. Guide homeowners through decision-making.
 #### PROMPT 5.2.3 - Emergency Plumbing Service Page
 
 ```
-Write an emergency plumbing service page for a West Phoenix plumber. Target word count: 2,500+ words. This is a HIGH-INTENT page targeting customers with urgent needs.
+Write an emergency plumbing service page for a West Phoenix plumber.
+
+**TARGET: 2,500+ words (Top 25% benchmark)**
+**URL: /emergency-plumber-phoenix/**
+**Search Volume: 14,800+/month combined | CPC: $45-70 | Competition: None locally**
+**THIS IS THE HIGHEST-INTENT PAGE - CRITICAL PRIORITY**
 
 PRIMARY KEYWORDS:
-- emergency plumber
-- 24 hour plumber
-- emergency plumber near me
-- 24 hour plumber near me
-- plumber open now
+- emergency plumber (12,100/mo)
+- 24 hour plumber near me (14,800/mo)
+- emergency plumbing service (6,600/mo)
+- plumber near me now (8,100/mo)
 
 SECONDARY KEYWORDS:
-- same day plumber
-- weekend plumber
-- urgent plumbing repair
+- after hours plumber (2,400/mo)
+- weekend plumber (1,600/mo)
+- same day plumber (1,300/mo)
 
-REQUIRED SECTIONS:
-1. Urgent header with phone number
-2. What constitutes a plumbing emergency
-3. Emergency services we offer
-   - Burst pipes
-   - Sewer backups
-   - Major leaks
-   - No hot water
-   - Gas leaks
-   - Overflowing toilets
-4. Our emergency response process
-5. 24/7 availability emphasis
-6. Service areas with response times
-7. What to do while waiting
-8. Cost considerations
-9. Why choose us for emergencies
-10. FAQ section
-11. Multiple call-to-action buttons
+REQUIRED SECTIONS WITH WORD COUNTS:
+1. Urgent hero with phone number (150 words)
+2. What constitutes a plumbing emergency (250 words)
+3. Emergency services we offer (500 words)
+   - Burst pipes (100 words)
+   - Sewer backups (100 words)
+   - Major leaks (75 words)
+   - No hot water (75 words)
+   - Gas leaks (75 words)
+   - Overflowing toilets (75 words)
+4. Our emergency response process - timeline (250 words)
+5. 24/7 availability emphasis (150 words)
+6. Service areas with response times by zone (200 words)
+7. What to do while waiting - safety tips (300 words)
+8. Cost considerations & financing (200 words)
+9. Why choose us for emergencies (200 words)
+10. FAQ section - 8+ questions (400 words)
+11. Final urgent CTA (100 words)
+
+REQUIRED PAGE ELEMENTS:
+- H1: "24/7 Emergency Plumber in Phoenix | [Company Name]"
+- Phone number in hero section (large, click-to-call)
+- Mobile CTAs: Click-to-call button FIXED to bottom of screen
+- Response time guarantee prominently displayed
+- List of common emergencies handled
+
+SCHEMA MARKUP REQUIRED:
+- EmergencyService
+- LocalBusiness
+- FAQPage
 
 URGENCY SIGNALS:
-- "Call now" language
-- Response time promises
-- 24/7/365 availability
-- Phone number in multiple locations
+- "Call now" language throughout
+- Response time promises ("On-site in 60 minutes or less")
+- 24/7/365 availability badge
+- Phone number visible without scrolling
+- Red/urgent color accents
 
 TONE: Urgent, reassuring, professional. Customer is stressed—be helpful and calming while emphasizing fast response.
 ```
@@ -559,7 +666,9 @@ TONE: Urgent, reassuring, professional. Customer is stressed—be helpful and ca
 #### PROMPT 5.2.4 - Sewer Line Services Page
 
 ```
-Write a sewer line service page for a West Phoenix plumber. Target word count: 2,000+ words.
+Write a sewer line service page for a West Phoenix plumber.
+
+**TARGET: 2,500+ words (Top 25% benchmark)**
 
 PRIMARY KEYWORDS:
 - sewer line repair
@@ -572,28 +681,34 @@ SECONDARY KEYWORDS:
 - main sewer line clog
 - trenchless sewer repair
 
-REQUIRED SECTIONS:
-1. Introduction to sewer line problems
-2. Sewer services offered
-   - Sewer line repair
-   - Sewer cleaning
-   - Camera inspection
-   - Sewer line replacement
-   - Trenchless repair
-3. Signs of sewer problems
-4. Common sewer issues in Arizona
-5. Our diagnostic process
-6. Repair vs. replacement guide
-7. Trenchless technology explanation
-8. Prevention tips
-9. Service areas
-10. FAQ section
+REQUIRED SECTIONS WITH WORD COUNTS:
+1. Introduction to sewer line problems (250 words)
+2. Sewer services offered (600 words)
+   - Sewer line repair (150 words)
+   - Sewer cleaning (100 words)
+   - Camera inspection (100 words)
+   - Sewer line replacement (150 words)
+   - Trenchless repair (100 words)
+3. Signs of sewer problems - 8+ warning signs (350 words)
+4. Common sewer issues in Arizona (300 words)
+5. Our diagnostic process - step by step (200 words)
+6. Repair vs. replacement guide - decision matrix (250 words)
+7. Trenchless technology explanation (200 words)
+8. Prevention tips (150 words)
+9. Service areas with zip codes (100 words)
+10. FAQ section - 7+ questions (400 words)
+
+COMPETITOR BENCHMARK:
+- Roto-Rooter sewer page: 18,825 words (market leader)
+- Top performers average 3,500+ words
+- Include comprehensive content to compete
 
 ARIZONA-SPECIFIC:
-- Tree root intrusion (common species)
-- Shifting soil from monsoons
-- Older Phoenix-area pipe materials
-- Clay vs. cast iron vs. PVC
+- Tree root intrusion (mesquite, palo verde, olive - aggressive roots)
+- Shifting soil from monsoon flooding
+- Older Phoenix-area pipe materials (1950s-70s homes)
+- Clay vs. cast iron vs. Orangeburg vs. PVC comparison
+- Caliche soil challenges for excavation
 
 TONE: Expert, thorough. Sewer work is expensive—build trust through education.
 ```
@@ -601,7 +716,11 @@ TONE: Expert, thorough. Sewer work is expensive—build trust through education.
 #### PROMPT 5.2.5 - Leak Detection Service Page
 
 ```
-Write a leak detection service page for a West Phoenix plumber. Target word count: 1,500+ words.
+Write a leak detection service page for a West Phoenix plumber.
+
+**TARGET: 2,500+ words (Top 25% benchmark)**
+**URL: /leak-detection-phoenix/**
+**Search Volume: 9,900/month | CPC: $25-40 | Competition: None locally**
 
 PRIMARY KEYWORDS:
 - leak detection
@@ -613,29 +732,35 @@ SECONDARY KEYWORDS:
 - pipe leak repair
 - underground leak detection
 
-REQUIRED SECTIONS:
-1. Introduction to leak detection
-2. Types of leaks we detect
-   - Slab leaks
-   - Underground leaks
-   - Hidden pipe leaks
-   - Sewer leaks
-3. Signs you have a leak
-4. Our detection technology
+REQUIRED SECTIONS WITH WORD COUNTS:
+1. Introduction to leak detection (200 words)
+2. Types of leaks we detect (400 words)
+   - Slab leaks (100 words)
+   - Underground leaks (100 words)
+   - Hidden pipe leaks (100 words)
+   - Sewer leaks (100 words)
+3. Signs you have a leak - 10+ warning signs (350 words)
+4. Our detection technology (400 words)
    - Electronic leak detection
    - Acoustic detection
    - Thermal imaging
    - Video inspection
-5. The detection process
-6. Repair options
-7. Cost of ignoring leaks
-8. Service areas
-9. FAQ section
+5. The detection process - step by step (250 words)
+6. Repair options with cost ranges (300 words)
+7. Cost of ignoring leaks - urgency builder (200 words)
+8. Service areas with zip codes (100 words)
+9. FAQ section - 8+ questions (400 words)
+
+SCHEMA MARKUP REQUIRED:
+- LocalBusiness
+- Service
+- FAQPage
 
 ARIZONA-SPECIFIC:
-- Slab leak prevalence in Arizona homes
-- Soil conditions affecting foundation
-- Copper pipe issues with hard water
+- Slab leak prevalence in Arizona homes (foundation on slab)
+- Expansive soil conditions affecting foundation
+- Copper pipe corrosion from Phoenix hard water
+- Cost savings from early detection in desert climate
 
 TONE: Technical but accessible. Homeowners may not know they have a leak—educate them.
 ```
@@ -643,7 +768,15 @@ TONE: Technical but accessible. Homeowners may not know they have a leak—educa
 #### PROMPT 5.2.6 - Fixture Repair & Installation Page
 
 ```
-Write a fixture repair and installation service page for a West Phoenix plumber. Target word count: 1,500+ words.
+Write a fixture repair and installation service page for a West Phoenix plumber.
+
+**TARGET: 2,500+ words (Top 25% benchmark)**
+**URL: /fixture-repair-phoenix/** (hub page linking to specific fixtures)
+
+COMBINED SEARCH VOLUME: 24,600+/month
+- toilet repair (12,100/mo) → /toilet-repair-phoenix/
+- faucet repair (8,100/mo) → /faucet-repair-phoenix/
+- garbage disposal repair (4,400/mo) → /garbage-disposal-repair-phoenix/
 
 PRIMARY KEYWORDS:
 - toilet repair
@@ -651,32 +784,47 @@ PRIMARY KEYWORDS:
 - garbage disposal repair
 
 SECONDARY KEYWORDS:
-- running toilet
-- leaky faucet
-- toilet installation
-- garbage disposal installation
-- faucet installation
+- running toilet (9,900/mo)
+- leaky faucet (8,100/mo)
+- toilet installation (5,400/mo)
+- garbage disposal installation (4,400/mo)
+- faucet installation (3,600/mo)
 
-REQUIRED SECTIONS:
-1. Introduction to fixture services
-2. Toilet services
-   - Repair (running, leaking, clogged)
+REQUIRED SECTIONS WITH WORD COUNTS:
+1. Introduction to fixture services (200 words)
+2. Toilet services (500 words)
+   - Repair: running, leaking, clogged, weak flush
    - Installation
    - Replacement
-3. Faucet services
-   - Repair (drips, leaks)
+   - Low-flow upgrades
+3. Faucet services (400 words)
+   - Repair: drips, leaks, low pressure
    - Installation
-   - Upgrade options
-4. Garbage disposal services
+   - Upgrade options (touchless, etc.)
+4. Garbage disposal services (350 words)
    - Repair
    - Installation
    - Replacement
-5. Other fixtures (showers, tubs, sinks)
-6. Signs you need fixture service
-7. Upgrade benefits
-8. Our process
-9. Service areas
-10. FAQ section
+   - Maintenance tips
+5. Other fixtures (300 words)
+   - Showers and tubs
+   - Sinks
+   - Outdoor faucets
+6. Signs you need fixture service - 10+ signs (250 words)
+7. Upgrade benefits - water savings, efficiency (200 words)
+8. Our process (150 words)
+9. Service areas (100 words)
+10. FAQ section - 8+ questions (400 words)
+
+INTERNAL LINKING:
+- Link to individual fixture pages (/toilet-repair-phoenix/, etc.)
+- Link to emergency page for urgent fixture issues
+- Link to relevant location pages
+
+SCHEMA MARKUP:
+- Service
+- LocalBusiness
+- FAQPage
 
 TONE: Helpful, practical. These are common household issues—be relatable.
 ```
