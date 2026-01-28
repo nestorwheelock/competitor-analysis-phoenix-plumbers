@@ -2,9 +2,21 @@
 
 **[English Version](./README.md)** | Español
 
+![Mapa del Área de Servicio](./service-map.png)
+*Área de servicio objetivo: Valle oeste de Phoenix incluyendo Surprise, Sun City, Sun City West, Glendale y Peoria*
+
 Análisis integral de inteligencia competitiva para el mercado de servicios de plomería del área metropolitana de Phoenix.
 
 **Preparado por [South City Computer](https://southcitycomputer.com)**
+
+---
+
+## Informes Detallados
+
+Para análisis completo por competidor incluyendo stacks tecnológicos, análisis de palabras clave, métricas de rendimiento y evaluaciones competitivas:
+
+- **[Full Market Research Report (English)](./market-research-2026-01-28.md)** - Análisis profundo de 122 competidores
+- **[Informe Completo de Investigación (Español)](./market-research-2026-01-28.es.md)** - Análisis detallado de 122 competidores
 
 ---
 

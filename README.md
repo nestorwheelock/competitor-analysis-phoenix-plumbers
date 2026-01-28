@@ -2,9 +2,21 @@
 
 **[Versión en Español](./README.es.md)** | English
 
+![Service Area Map](./service-map.png)
+*Target service area: Phoenix west valley including Surprise, Sun City, Sun City West, Glendale, and Peoria*
+
 Comprehensive competitive intelligence analysis for the Phoenix metropolitan area plumbing services market.
 
 **Prepared by [South City Computer](https://southcitycomputer.com)**
+
+---
+
+## Detailed Reports
+
+For comprehensive per-competitor analysis including technology stacks, keyword analysis, performance metrics, and competitive assessments:
+
+- **[Full Market Research Report (English)](./market-research-2026-01-28.md)** - 122 competitor deep-dive analysis
+- **[Informe Completo de Investigación (Español)](./market-research-2026-01-28.es.md)** - Análisis detallado de 122 competidores
 
 ---
 

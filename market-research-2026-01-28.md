@@ -3,6 +3,9 @@
 
 ## Comprehensive Competitive Intelligence Analysis | January 2026
 
+![Service Area Map](./service-map.png)
+*Target service area: Phoenix west valley including Surprise, Sun City, Sun City West, Glendale, and Peoria*
+
 **Report Generated:** 2026-01-28 15:07 UTC
 **Geographic Focus:** Phoenix metropolitan area
 **Analysis Tool:** Plumber Market Research Platform

@@ -3,6 +3,9 @@
 
 ## Análisis Integral de Inteligencia Competitiva | January 2026
 
+![Mapa del Área de Servicio](./service-map.png)
+*Área de servicio objetivo: Valle oeste de Phoenix incluyendo Surprise, Sun City, Sun City West, Glendale y Peoria*
+
 **Informe Generado:** 2026-01-28 15:08 UTC
 **Enfoque Geográfico:** Phoenix metropolitan area
 **Herramienta de Análisis:** Plumber Market Research Platform
