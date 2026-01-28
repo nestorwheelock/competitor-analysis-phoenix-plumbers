@@ -1081,36 +1081,401 @@ Until automated verification is available, licenses can be manually verified at:
 
 ---
 
+---
+
+## Research Methodology
+
+This section documents the scientific methodology used for data collection, storage, and analysis in accordance with research best practices for competitive intelligence studies.
+
+### 1. Research Design
+
+**Study Type:** Quantitative competitive intelligence analysis
+
+**Geographic Scope:** Phoenix metropolitan area, Arizona
+- Primary focus: West valley communities (Surprise, Sun City, Sun City West, Glendale West, Peoria)
+- ZIP code coverage: 85301-85388 (23 unique postal codes)
+- Search radius: 25 km from geographic center points
+
+**Temporal Scope:** Data collected January 2026 (point-in-time snapshot)
+
+**Population:** All plumbing service providers discoverable via:
+- Google Places API (Nearby Search)
+- Google Maps public listings
+- Business websites accessible via HTTP/HTTPS
+
+**Sample Size:** N = 122 unique competitors identified after deduplication
+
+---
+
+### 2. Data Collection Methods
+
+#### 2.1 Competitor Discovery
+
+**Source:** Google Places API (Nearby Search endpoint)
+
+**Method:**
+1. Define coordinate grid covering target ZIP codes
+2. Execute searches for "plumber", "plumbing", "plumbing service" at each coordinate
+3. Deduplicate results by Google `place_id` (canonical identifier)
+4. Enrich records via Place Details API for complete business information
+
+**API Fields Collected:**
+| Field | Description | Coverage |
+|-------|-------------|----------|
+| `place_id` | Google's unique business identifier | 100% |
+| `name` | Business name | 100% |
+| `formatted_address` | Full street address | 100% |
+| `formatted_phone_number` | Primary phone | 98% |
+| `rating` | Average star rating (1-5) | 100% |
+| `user_ratings_total` | Total review count | 100% |
+| `website` | Primary website URL | 84% |
+| `types` | Business category tags | 100% |
+| `geometry.location` | Latitude/longitude coordinates | 100% |
+
+**Rate Limiting:** 1 request per second per endpoint to comply with API terms of service
+
+---
+
+#### 2.2 Website Crawling
+
+**Tool:** Custom Rust-based web crawler (`plumber crawl`)
+
+**Crawl Parameters:**
+| Parameter | Value | Rationale |
+|-----------|-------|-----------|
+| Max pages per site | 500 | Capture comprehensive site structure |
+| Max depth | 5 levels | Cover nested content without infinite loops |
+| Request delay | 1 second | Respect server resources |
+| User agent | Custom (identifies as research crawler) | Ethical crawling practice |
+| Robots.txt | Respected | Compliance with site owner preferences |
+
+**Data Extracted Per Page:**
+| Data Point | Method |
+|------------|--------|
+| URL | Direct capture |
+| HTTP status code | Response header |
+| Response time (ms) | Timing measurement |
+| Title tag | HTML `<title>` parsing |
+| Meta description | `<meta name="description">` |
+| H1-H6 headings | DOM traversal |
+| Word count | Text extraction (excluding nav/footer) |
+| Internal links | `<a href>` parsing, same-domain filter |
+| External links | `<a href>` parsing, different-domain filter |
+| Images | `<img>` inventory with alt text |
+| Canonical URL | `<link rel="canonical">` |
+
+**Boilerplate Detection:**
+Text appearing on >80% of pages with frequency variance <2 is flagged as boilerplate (navigation, footer, etc.) and excluded from keyword analysis.
+
+---
+
+#### 2.3 Performance Analysis
+
+**Source:** Google PageSpeed Insights API v5
+
+**Test Configuration:**
+| Setting | Value |
+|---------|-------|
+| Strategy | Mobile (primary), Desktop (secondary) |
+| Categories | Performance |
+| Locale | en-US |
+
+**Metrics Collected:**
+| Metric | Unit | Description |
+|--------|------|-------------|
+| Performance Score | 0-100 | Lighthouse composite score |
+| LCP (Largest Contentful Paint) | milliseconds | Loading performance |
+| FID/INP (Interaction to Next Paint) | milliseconds | Interactivity |
+| CLS (Cumulative Layout Shift) | unitless | Visual stability |
+| FCP (First Contentful Paint) | milliseconds | Initial render |
+| TTFB (Time to First Byte) | milliseconds | Server response |
+| Speed Index | milliseconds | Visual completion |
+| Total Blocking Time | milliseconds | Main thread blocking |
+
+**Core Web Vitals Thresholds (per Google standards):**
+| Metric | Good | Needs Improvement | Poor |
+|--------|------|-------------------|------|
+| LCP | ≤2.5s | ≤4.0s | >4.0s |
+| INP | ≤200ms | ≤500ms | >500ms |
+| CLS | ≤0.1 | ≤0.25 | >0.25 |
+
+---
+
+#### 2.4 Keyword Extraction
+
+**Method:** Natural language processing on crawled page content
+
+**Process:**
+1. Extract text content from HTML (remove scripts, styles, navigation)
+2. Tokenize using Unicode word boundaries
+3. Normalize: lowercase, remove punctuation
+4. Filter: exclude stopwords, require length ≥3 characters
+5. Count frequency per page and aggregate to site level
+6. Cross-reference with keyword research database for search volume data
+
+**Keyword Research Sources:**
+- Manual keyword research using industry-standard SEO tools
+- Local search volume estimates for Phoenix MSA
+- CPC (cost-per-click) estimates from Google Ads data
+
+---
+
+#### 2.5 Technology Detection
+
+**Method:** Multi-signal pattern matching
+
+**Detection Signals:**
+| Signal Type | Example |
+|-------------|---------|
+| Meta generator tags | `<meta name="generator" content="WordPress 6.4">` |
+| Script sources | `/wp-includes/`, `react.production.min.js` |
+| Link hrefs | Bootstrap CSS, Tailwind |
+| HTTP headers | `X-Powered-By`, `Server` |
+| HTML comments | WordPress version markers |
+| CSS class patterns | `.wp-block-`, `.chakra-` |
+| Cookie names | `wordpress_logged_in_`, `_ga` |
+| File presence | `/wp-admin/`, `/sitemap.xml` |
+
+**Confidence Levels:**
+| Level | Criteria |
+|-------|----------|
+| High | Direct identifier found (meta generator, explicit version) |
+| Medium | Pattern match on resources or structure |
+| Low | Inferred from behavioral patterns |
+
+---
+
+#### 2.6 Domain Intelligence
+
+**Sources:**
+| Data Point | Source |
+|------------|--------|
+| Registration date | WHOIS/RDAP lookup |
+| Expiration date | WHOIS/RDAP lookup |
+| Registrar | WHOIS/RDAP lookup |
+| SSL certificate | Direct TLS inspection |
+| SSL issuer | Certificate chain analysis |
+| DNS records | A, AAAA, MX, TXT, CNAME, NS queries |
+
+**Derived Metrics:**
+- Domain age (days since registration)
+- SSL days remaining until expiration
+- Email provider (inferred from MX records)
+- CDN provider (inferred from CNAME/A records)
+
+---
+
+### 3. Data Storage
+
+**Database:** SQLite 3.x (file-based relational database)
+
+**Schema Overview:**
+| Table | Records | Description |
+|-------|---------|-------------|
+| `competitors` | 122 | Core business information |
+| `website_pages` | 9,480 | Individual crawled pages |
+| `website_analyses` | 102 | Per-site crawl summaries |
+| `site_keywords` | 23,288 | Site-level keyword frequencies |
+| `page_keywords` | ~500,000 | Page-level keyword data |
+| `performance_metrics` | 102 | PageSpeed Insights results |
+| `technology_stacks` | 102 | Detected technologies |
+| `domain_intelligence` | 47 | WHOIS/DNS data |
+| `keyword_research` | 1,500+ | Keyword volume/CPC data |
+| `roc_licenses` | 41 | Extracted license numbers |
+
+**Data Integrity:**
+- Foreign key constraints enforce referential integrity
+- Unique constraints prevent duplicate records
+- Timestamps track data freshness
+- Indexes optimize query performance
+
+---
+
+### 4. Statistical Methods
+
+#### 4.1 Outlier Detection (IQR Method)
+
+For skewed distributions (e.g., review counts), we apply the Interquartile Range method:
+
+**Formula:**
+```
+Q1 = 25th percentile
+Q3 = 75th percentile
+IQR = Q3 - Q1
+Lower bound = Q1 - 1.5 × IQR
+Upper bound = Q3 + 1.5 × IQR
+```
+
+**Application to Review Counts:**
+| Statistic | Value |
+|-----------|-------|
+| Q1 | 27 |
+| Q3 | 344 |
+| IQR | 317 |
+| Upper bound | 814 |
+| Outliers identified | 20 competitors (>814 reviews) |
+
+**Treatment:** Outliers are:
+- Acknowledged in reports (not hidden)
+- Excluded from mean calculations
+- Analyzed separately as enterprise-class competitors
+
+#### 4.2 Percentile Calculations
+
+Positional percentiles with linear interpolation:
+```
+percentile(p) = sorted_values[floor(n × p/100)] +
+                (n × p/100 - floor(n × p/100)) ×
+                (sorted_values[ceil(n × p/100)] - sorted_values[floor(n × p/100)])
+```
+
+#### 4.3 Entity Classification Criteria
+
+| Class | Review Count | Location Count | Service Scope |
+|-------|--------------|----------------|---------------|
+| Local Operator | <500 | 1 | Single trade |
+| Regional Brand | 500-2000 | 2-5 | Single trade |
+| Enterprise Network | >2000 | >5 | Single or multi-trade |
+| Brand Aggregator | Any | Any | Multi-trade (HVAC+Plumbing+Electrical) |
+
+---
+
+### 5. Data Quality & Limitations
+
+#### 5.1 Known Limitations
+
+| Limitation | Impact | Mitigation |
+|------------|--------|------------|
+| **Discovery Bias** | Only Google-discoverable businesses included | Acknowledged; may miss new or unlisted businesses |
+| **Review Aggregation** | Multi-location brands may have aggregated counts | Entity classification accounts for this |
+| **Temporal Snapshot** | Data reflects single point in time | Report date clearly stated; periodic refresh recommended |
+| **Performance Variability** | PageSpeed scores fluctuate | Captured during business hours; considered representative |
+| **Geographic Restrictions** | ROC database blocked automated access | Manual verification link provided; VPN enhancement planned |
+
+#### 5.2 Data Validation
+
+| Check | Method | Pass Rate |
+|-------|--------|-----------|
+| Place ID present | NULL check | 100% (122/122) |
+| Website accessible | HTTP 200 response | 84% (102/122) |
+| Pages crawled | >0 pages per site | 100% (102/102 accessible) |
+| Keywords extracted | >10 unique keywords | 93% (95/102) |
+| Performance data | Scores present | 100% (102/102) |
+
+#### 5.3 Confidence Indicators
+
+Throughout this report, data confidence is indicated as:
+
+| Indicator | Meaning |
+|-----------|---------|
+| **High** ✓ | Primary source verified, multiple signals corroborate |
+| **Medium** ~ | Single source, plausible but unverified |
+| **Low** ⚠ | Inferred, potential data quality issues |
+| **Unknown** ? | Data not collected or not applicable |
+
+---
+
+### 6. Reproducibility
+
+**Tool:** `plumber` CLI (Rust-based market research platform)
+
+**Data Collection Commands:**
+```bash
+# Discover competitors in target area
+plumber research discover --zip-codes "85301,85374,..." --radius 25000
+
+# Crawl all competitor websites
+plumber crawl all --max-pages 500 --depth 5
+
+# Extract keywords from crawled content
+plumber research keywords extract --all
+
+# Collect performance metrics
+plumber analyze performance --all
+
+# Detect technology stacks
+plumber analyze tech --all
+
+# Collect domain intelligence
+plumber analyze domain --all
+
+# Generate comprehensive report
+plumber research ai-report comprehensive --output-dir reports/
+```
+
+**Database Location:** `data/market_research.db`
+
+**Report Generation:** Automated via report generator with bilingual support (English/Spanish)
+
+---
+
 ## Data Sources
 
 | Source | Coverage | Confidence |
 |--------|----------|------------|
 | Google Places API | 122 competitors | High |
-| Website Crawl | 102 sites | High |
+| Website Crawl | 102 sites (9,480 pages) | High |
 | PageSpeed Insights | 102 sites | High |
-| Keyword Extraction | 95 sites | Medium |
+| Keyword Extraction | 95 sites (23,288 keywords) | Medium |
 | Domain Intelligence | 47 sites | Medium |
 | ROC License Extraction | 41 licenses | Medium (unverified) |
 
 ---
 
-## Methodology Notes
+---
 
-### Outlier Detection (IQR Method)
+## References & Citations
 
-Uses the Interquartile Range method:
-- Q1 = 27, Q3 = 344, IQR = 317
-- Upper bound = 344 + (1.5 x 317) = 814
-- Competitors with >814 reviews classified as statistical outliers
+The following sources document the APIs, standards, and methodologies used in this research:
 
-### Entity Classification
+### Data Sources Documentation
 
-| Class | Criteria |
-|-------|----------|
-| Local Operator | Single location, <500 reviews |
-| Regional Brand | 2-5 locations OR 500-2000 reviews |
-| Enterprise Network | >5 locations OR >2000 reviews |
-| Brand Aggregator | Multi-service (HVAC+Plumbing+Electrical) |
+1. **Google Places API**
+   - Google Developers. "Places API Documentation." https://developers.google.com/maps/documentation/places/web-service
+   - Endpoint used: Nearby Search, Place Details
+
+2. **Google PageSpeed Insights API**
+   - Google Developers. "PageSpeed Insights API v5." https://developers.google.com/speed/docs/insights/v5/get-started
+   - Lighthouse scoring methodology: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring
+
+3. **Core Web Vitals Thresholds**
+   - web.dev. "Defining the Core Web Vitals metrics thresholds." https://web.dev/articles/defining-core-web-vitals-thresholds
+   - LCP: ≤2.5s (good), ≤4.0s (needs improvement), >4.0s (poor)
+   - INP: ≤200ms (good), ≤500ms (needs improvement), >500ms (poor)
+   - CLS: ≤0.1 (good), ≤0.25 (needs improvement), >0.25 (poor)
+
+4. **Arizona Registrar of Contractors (ROC)**
+   - Arizona ROC. "Contractor Search." https://roc.az.gov/contractor-search
+   - License verification and complaint lookup
+
+### Statistical Methods
+
+5. **Interquartile Range (IQR) Outlier Detection**
+   - Tukey, J. W. (1977). "Exploratory Data Analysis." Addison-Wesley.
+   - Standard method: outliers defined as values beyond Q1 - 1.5×IQR or Q3 + 1.5×IQR
+
+6. **Percentile Calculation**
+   - NIST/SEMATECH. "e-Handbook of Statistical Methods." https://www.itl.nist.gov/div898/handbook/
+   - Linear interpolation method for percentile estimation
+
+### Web Standards
+
+7. **robots.txt Protocol**
+   - Google Search Central. "Introduction to robots.txt." https://developers.google.com/search/docs/crawling-indexing/robots/intro
+
+8. **Schema.org Structured Data**
+   - Schema.org. "LocalBusiness." https://schema.org/LocalBusiness
+   - Schema.org. "Service." https://schema.org/Service
+
+### Technology Detection
+
+9. **WordPress Detection**
+   - WordPress.org. "Theme Development." https://developer.wordpress.org/themes/
+   - Common identifiers: `/wp-content/`, `/wp-includes/`, `<meta name="generator">`
+
+10. **Google Analytics**
+    - Google Analytics. "Set up Analytics for a website." https://support.google.com/analytics/answer/9304153
+    - GA4 identifier: `gtag.js`, `G-XXXXXXX` measurement IDs
 
 ---
 

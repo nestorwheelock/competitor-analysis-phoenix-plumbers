@@ -340,29 +340,51 @@ Los números de licencia fueron extraídos de los sitios web de competidores per
 
 ---
 
-## Fuentes de Datos
-
-| Fuente | Cobertura | Confianza |
-|--------|-----------|-----------|
-| API de Google Places | 122 competidores | Alta |
-| Rastreo de Sitios Web | 102 sitios | Alta |
-| PageSpeed Insights | 102 sitios | Alta |
-| Extracción de Palabras Clave | 95 sitios | Media |
-| Inteligencia de Dominio | 47 sitios | Media |
-| Extracción de Licencia ROC | 41 licencias | Media (sin verificar) |
-
 ---
 
-## Notas Metodológicas
+## Metodología de Investigación
 
-### Detección de Valores Atípicos (Método IQR)
+### Diseño del Estudio
 
-Utiliza el método del Rango Intercuartílico:
+**Tipo de Estudio:** Análisis cuantitativo de inteligencia competitiva
+
+**Alcance Geográfico:** Área metropolitana de Phoenix, Arizona
+- Enfoque principal: Comunidades del valle oeste
+- Cobertura de códigos postales: 85301-85388 (23 códigos únicos)
+
+**Alcance Temporal:** Datos recopilados en enero de 2026 (instantánea puntual)
+
+**Tamaño de Muestra:** N = 122 competidores únicos identificados
+
+### Métodos de Recopilación de Datos
+
+| Fuente | Método | Cobertura |
+|--------|--------|-----------|
+| Google Places API | Nearby Search + Place Details | 122 negocios |
+| Rastreo Web | Crawler personalizado en Rust | 9,480 páginas |
+| PageSpeed Insights | API v5, estrategia móvil | 102 sitios |
+| Extracción de Palabras Clave | Procesamiento de lenguaje natural | 23,288 palabras clave |
+| Detección de Tecnología | Coincidencia de patrones multi-señal | 102 sitios |
+
+### Almacenamiento de Datos
+
+**Base de Datos:** SQLite 3.x (base de datos relacional basada en archivos)
+
+| Tabla | Registros | Descripción |
+|-------|-----------|-------------|
+| `competitors` | 122 | Información de negocios |
+| `website_pages` | 9,480 | Páginas rastreadas |
+| `performance_metrics` | 102 | Resultados de PageSpeed |
+| `technology_stacks` | 102 | Tecnologías detectadas |
+
+### Métodos Estadísticos
+
+**Detección de Valores Atípicos (Método IQR):**
 - Q1 = 27, Q3 = 344, IQR = 317
-- Límite superior = 344 + (1.5 x 317) = 814
-- Competidores con >814 reseñas clasificados como valores atípicos estadísticos
+- Límite superior = 344 + (1.5 × 317) = 814
+- Competidores con >814 reseñas = valores atípicos estadísticos (20 identificados)
 
-### Clasificación de Entidades
+**Clasificación de Entidades:**
 
 | Clase | Criterios |
 |-------|-----------|
@@ -370,6 +392,35 @@ Utiliza el método del Rango Intercuartílico:
 | Marca Regional | 2-5 ubicaciones O 500-2000 reseñas |
 | Red Empresarial | >5 ubicaciones O >2000 reseñas |
 | Agregador de Marcas | Multi-servicio (HVAC+Plomería+Electricidad) |
+
+---
+
+## Fuentes de Datos
+
+| Fuente | Cobertura | Confianza |
+|--------|-----------|-----------|
+| API de Google Places | 122 competidores | Alta |
+| Rastreo de Sitios Web | 102 sitios (9,480 páginas) | Alta |
+| PageSpeed Insights | 102 sitios | Alta |
+| Extracción de Palabras Clave | 95 sitios (23,288 palabras clave) | Media |
+| Inteligencia de Dominio | 47 sitios | Media |
+| Extracción de Licencia ROC | 41 licencias | Media (sin verificar) |
+
+---
+
+## Referencias y Citas
+
+### Documentación de Fuentes de Datos
+
+1. **Google Places API** - https://developers.google.com/maps/documentation/places/web-service
+2. **Google PageSpeed Insights API** - https://developers.google.com/speed/docs/insights/v5/get-started
+3. **Core Web Vitals** - https://web.dev/articles/defining-core-web-vitals-thresholds
+4. **Arizona ROC** - https://roc.az.gov/contractor-search
+
+### Métodos Estadísticos
+
+5. **Método IQR** - Tukey, J. W. (1977). "Exploratory Data Analysis." Addison-Wesley.
+6. **Cálculo de Percentiles** - NIST/SEMATECH e-Handbook: https://www.itl.nist.gov/div898/handbook/
 
 ---
 
