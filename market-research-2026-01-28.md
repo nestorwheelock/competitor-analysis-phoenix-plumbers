@@ -3,7 +3,7 @@
 
 ## Comprehensive Competitive Intelligence Analysis | January 2026
 
-**Report Generated:** 2026-01-28 14:35 UTC
+**Report Generated:** 2026-01-28 15:07 UTC
 **Geographic Focus:** Phoenix metropolitan area
 **Analysis Tool:** Plumber Market Research Platform
 
@@ -37,7 +37,7 @@ This report provides comprehensive competitive intelligence for the Phoenix metr
 - **Market Size:** 122 competitors identified, 83% (102) have websites
 - **Review Distribution:** Median 108 reviews (IQR: 27-344), 20 statistical outliers
 - **Technical Performance:** Average mobile score 61 (median 60), 102 competitors analyzed
-- **Content Depth:** Average 46 pages crawled per site
+- **Content Depth:** 46 Average pages crawled per site
 
 ### 1.3 Strategic Recommendations
 
@@ -244,17 +244,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Housecall Pro, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 15 | 3 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -319,7 +319,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 97/100 | 1595 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 90 pages |
+| Content | 60/100 | 90 Pages |
 | Technical | 48/100 | Mobile score 51 |
 | Brand | 20/100 | N/A years |
 
@@ -418,7 +418,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 54/100 | 43 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 99/100 | Mobile score 99 |
 | Brand | 20/100 | N/A years |
 
@@ -497,7 +497,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 9 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -542,11 +542,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Wix static resources found"],"name":"Wix","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -611,7 +611,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 58/100 | 35 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 14 pages |
+| Content | 40/100 | 14 Pages |
 | Technical | 76/100 | Mobile score 62 |
 | Brand | 35/100 | 1.8 years |
 
@@ -684,7 +684,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 40/100 | 2 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -728,11 +728,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Webflow markers found"],"name":"Webflow","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -797,7 +797,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 59/100 | 39 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 172 pages |
+| Content | 80/100 | 172 Pages |
 | Technical | 76/100 | Mobile score 60 |
 | Brand | 20/100 | N/A years |
 
@@ -843,11 +843,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Wix static resources found"],"name":"Wix","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -912,7 +912,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 1 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 79/100 | Mobile score 70 |
 | Brand | 50/100 | 2.9 years |
 
@@ -959,11 +959,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1024,7 +1024,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 6 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 64/100 | Mobile score 61 |
 | Brand | 20/100 | N/A years |
 
@@ -1068,11 +1068,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1137,7 +1137,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 11 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 12 pages |
+| Content | 40/100 | 12 Pages |
 | Technical | 95/100 | Mobile score 91 |
 | Brand | 20/100 | N/A years |
 
@@ -1209,7 +1209,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 59/100 | 44 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -1253,11 +1253,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["GoDaddy Website Builder resources found"],"name":"GoDaddy Website Builder","version":null}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (5 keywords with low/no search demand)
+**Wasteful Keywords** (5 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1322,7 +1322,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 53 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 6 pages |
+| Content | 20/100 | 6 Pages |
 | Technical | 86/100 | Mobile score 76 |
 | Brand | 75/100 | 6.5 years |
 
@@ -1372,11 +1372,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.7.4"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1441,7 +1441,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 186 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 103 pages |
+| Content | 80/100 | 103 Pages |
 | Technical | 49/100 | Mobile score 47 |
 | Brand | 50/100 | 2.8 years |
 
@@ -1489,11 +1489,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1558,7 +1558,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 65 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 66 pages |
+| Content | 60/100 | 66 Pages |
 | Technical | 70/100 | Mobile score 62 |
 | Brand | 35/100 | 1.7 years |
 
@@ -1599,7 +1599,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["GoDaddy Website Builder resources found"],"name":"GoDaddy Website Builder","version":null}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
@@ -1658,7 +1658,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 113 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 4 pages |
+| Content | 20/100 | 4 Pages |
 | Technical | 91/100 | Mobile score 84 |
 | Brand | 50/100 | 2.7 years |
 
@@ -1709,11 +1709,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1778,7 +1778,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 2950 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 38/100 | Mobile score 35 |
 | Brand | 90/100 | 21.7 years |
 
@@ -1827,11 +1827,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Housecall Pro, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -1896,7 +1896,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 88/100 | 584 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 10 pages |
+| Content | 20/100 | 10 Pages |
 | Technical | 57/100 | Mobile score 35 |
 | Brand | 20/100 | N/A years |
 
@@ -1942,11 +1942,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2006,7 +2006,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 88/100 | 645 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 58/100 | Mobile score 54 |
 | Brand | 20/100 | N/A years |
 
@@ -2052,7 +2052,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
@@ -2109,7 +2109,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 284 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 100/100 | Mobile score 100 |
 | Brand | 50/100 | 4.8 years |
 
@@ -2156,11 +2156,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (5 keywords with low/no search demand)
+**Wasteful Keywords** (5 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2225,7 +2225,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 58/100 | 33 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 16 pages |
+| Content | 40/100 | 16 Pages |
 | Technical | 81/100 | Mobile score 69 |
 | Brand | 20/100 | N/A years |
 
@@ -2298,7 +2298,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 40/100 | 4 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -2341,11 +2341,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (11 keywords with low/no search demand)
+**Wasteful Keywords** (11 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2410,7 +2410,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 56 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 14 pages |
+| Content | 40/100 | 14 Pages |
 | Technical | 62/100 | Mobile score 57 |
 | Brand | 20/100 | N/A years |
 
@@ -2450,11 +2450,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2515,7 +2515,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 255 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 63/100 | Mobile score 56 |
 | Brand | 50/100 | 4.3 years |
 
@@ -2561,11 +2561,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2626,7 +2626,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 89/100 | 960 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 3 pages |
+| Content | 20/100 | 3 Pages |
 | Technical | 64/100 | Mobile score 52 |
 | Brand | 20/100 | N/A years |
 
@@ -2723,7 +2723,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 76/100 | 280 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -2769,11 +2769,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2850,7 +2850,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 95/100 | 1893 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 87/100 | Mobile score 75 |
 | Brand | 20/100 | N/A years |
 
@@ -2897,11 +2897,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -2964,7 +2964,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 68/100 | 157 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 16 pages |
+| Content | 40/100 | 16 Pages |
 | Technical | 100/100 | Mobile score 100 |
 | Brand | 20/100 | N/A years |
 
@@ -3037,7 +3037,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 50/100 | 1 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -3139,7 +3139,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 3737 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 90/100 | Mobile score 82 |
 | Brand | 90/100 | 13.7 years |
 
@@ -3187,11 +3187,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Vue.js, Angular | Medium |
+| Framework | Vue.js, Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (24 keywords with low/no search demand)
+**Wasteful Keywords** (24 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3256,7 +3256,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 124 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 6 pages |
+| Content | 20/100 | 6 Pages |
 | Technical | 85/100 | Mobile score 72 |
 | Brand | 50/100 | 2.7 years |
 
@@ -3305,17 +3305,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 17 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3379,7 +3379,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 185 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 92/100 | Mobile score 86 |
 | Brand | 50/100 | 4.1 years |
 
@@ -3422,17 +3422,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 17 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3497,7 +3497,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 226 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 94/100 | Mobile score 92 |
 | Brand | 50/100 | 4.1 years |
 
@@ -3541,17 +3541,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 17 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3609,7 +3609,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 185 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 69/100 | Mobile score N/A |
 | Brand | 50/100 | 4.1 years |
 
@@ -3650,17 +3650,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 9 | 2 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3724,7 +3724,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 100 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 85 pages |
+| Content | 60/100 | 85 Pages |
 | Technical | 74/100 | Mobile score 67 |
 | Brand | 20/100 | 0.9 years |
 
@@ -3768,17 +3768,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | ServiceTitan | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 14 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3843,7 +3843,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 2444 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 61/100 | Mobile score 63 |
 | Brand | 20/100 | N/A years |
 
@@ -3887,17 +3887,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 95 | 36 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -3962,7 +3962,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 95/100 | 2105 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 74/100 | Mobile score 71 |
 | Brand | 90/100 | 23.9 years |
 
@@ -4037,7 +4037,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 49/100 | 22 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -4082,11 +4082,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["GoDaddy Website Builder resources found"],"name":"GoDaddy Website Builder","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -4150,7 +4150,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 56/100 | 42 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 23 pages |
+| Content | 40/100 | 23 Pages |
 | Technical | 74/100 | Mobile score 66 |
 | Brand | 35/100 | 1.1 years |
 
@@ -4190,7 +4190,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
@@ -4248,7 +4248,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 54/100 | 41 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 99/100 | Mobile score 99 |
 | Brand | 20/100 | N/A years |
 
@@ -4294,11 +4294,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -4359,7 +4359,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 41 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 48/100 | Mobile score 34 |
 | Brand | 20/100 | N/A years |
 
@@ -4404,11 +4404,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -4486,7 +4486,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 95/100 | 1237 reviews |
 | SERP | 3/100 | 1 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 57/100 | Mobile score 36 |
 | Brand | 20/100 | N/A years |
 
@@ -4533,11 +4533,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -4600,7 +4600,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 90/100 | 924 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 70 pages |
+| Content | 60/100 | 70 Pages |
 | Technical | 75/100 | Mobile score 72 |
 | Brand | 20/100 | N/A years |
 
@@ -4673,7 +4673,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 68/100 | 67 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -4716,11 +4716,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -4802,7 +4802,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 85/100 | 690 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 40/100 | 34 pages |
+| Content | 40/100 | 34 Pages |
 | Technical | 88/100 | Mobile score 77 |
 | Brand | 20/100 | N/A years |
 
@@ -4901,7 +4901,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 90/100 | 813 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 46/100 | Mobile score 42 |
 | Brand | 20/100 | N/A years |
 
@@ -4950,17 +4950,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | ServiceTitan | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 24 | 2 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5025,7 +5025,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 1119 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 76/100 | Mobile score 74 |
 | Brand | 20/100 | N/A years |
 
@@ -5069,11 +5069,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5138,7 +5138,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 55/100 | 42 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 27 pages |
+| Content | 40/100 | 27 Pages |
 | Technical | 32/100 | Mobile score 26 |
 | Brand | 20/100 | N/A years |
 
@@ -5238,7 +5238,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 14 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 97/100 | Mobile score 94 |
 | Brand | 50/100 | 3.0 years |
 
@@ -5284,7 +5284,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | jQuery | Medium |
+| Framework | jQuery | Medium |
 
 #### Keyword Analysis
 
@@ -5343,7 +5343,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 82 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 57/100 | Mobile score 59 |
 | Brand | 75/100 | 5.5 years |
 
@@ -5391,11 +5391,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Vue.js, Angular, jQuery | Medium |
+| Framework | Vue.js, Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5460,7 +5460,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 76 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 34 pages |
+| Content | 40/100 | 34 Pages |
 | Technical | 72/100 | Mobile score 62 |
 | Brand | 35/100 | 1.6 years |
 
@@ -5503,11 +5503,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.8.3"}  | Medium |
 | Booking | Housecall Pro | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5572,7 +5572,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 29 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 154 pages |
+| Content | 80/100 | 154 Pages |
 | Technical | 47/100 | Mobile score 39 |
 | Brand | 20/100 | 1.0 years |
 
@@ -5618,17 +5618,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 1 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5693,7 +5693,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 89/100 | 727 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 398 pages |
+| Content | 95/100 | 398 Pages |
 | Technical | 73/100 | Mobile score 66 |
 | Brand | 50/100 | 3.7 years |
 
@@ -5736,11 +5736,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5798,7 +5798,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 41 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -5840,11 +5840,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -5909,7 +5909,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 1110 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 63 pages |
+| Content | 60/100 | 63 Pages |
 | Technical | 44/100 | Mobile score 51 |
 | Brand | 20/100 | N/A years |
 
@@ -5957,11 +5957,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Squarespace resources found"],"name":"Squarespace","version":null}  | Medium |
 | Booking | Housecall Pro, Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6026,7 +6026,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 341 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 164 pages |
+| Content | 80/100 | 164 Pages |
 | Technical | 40/100 | Mobile score 36 |
 | Brand | 20/100 | N/A years |
 
@@ -6074,11 +6074,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.8.3"}  | Medium |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6136,7 +6136,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 78/100 | 468 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 71/100 | Mobile score N/A |
 | Brand | 90/100 | 26.3 years |
 
@@ -6181,11 +6181,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Wix static resources found"],"name":"Wix","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6250,7 +6250,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 66/100 | 108 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 63/100 | Mobile score 52 |
 | Brand | 90/100 | 21.2 years |
 
@@ -6323,7 +6323,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 24 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -6368,11 +6368,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6437,7 +6437,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 6 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 108 pages |
+| Content | 80/100 | 108 Pages |
 | Technical | 67/100 | Mobile score 56 |
 | Brand | 20/100 | N/A years |
 
@@ -6479,11 +6479,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6548,7 +6548,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 331 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 171 pages |
+| Content | 80/100 | 171 Pages |
 | Technical | 58/100 | Mobile score 53 |
 | Brand | 90/100 | 14.8 years |
 
@@ -6591,11 +6591,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Vue.js, Angular, jQuery | Medium |
+| Framework | Vue.js, Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (23 keywords with low/no search demand)
+**Wasteful Keywords** (23 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6660,7 +6660,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 159 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 38 pages |
+| Content | 40/100 | 38 Pages |
 | Technical | 65/100 | Mobile score 56 |
 | Brand | 20/100 | N/A years |
 
@@ -6732,7 +6732,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 53 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -6778,7 +6778,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
@@ -6837,7 +6837,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 344 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 70/100 | Mobile score 63 |
 | Brand | 20/100 | N/A years |
 
@@ -6886,11 +6886,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -6955,7 +6955,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 21 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 179 pages |
+| Content | 80/100 | 179 Pages |
 | Technical | 59/100 | Mobile score 40 |
 | Brand | 75/100 | 7.4 years |
 
@@ -7028,7 +7028,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 52 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -7077,11 +7077,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7145,7 +7145,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 90/100 | 630 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 71 pages |
+| Content | 60/100 | 71 Pages |
 | Technical | 94/100 | Mobile score 88 |
 | Brand | 90/100 | 26.2 years |
 
@@ -7188,11 +7188,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7257,7 +7257,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 95/100 | 1541 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 83 pages |
+| Content | 60/100 | 83 Pages |
 | Technical | 60/100 | Mobile score 49 |
 | Brand | 90/100 | 14.8 years |
 
@@ -7298,11 +7298,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7367,7 +7367,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 129 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 39 pages |
+| Content | 40/100 | 39 Pages |
 | Technical | 71/100 | Mobile score 57 |
 | Brand | 20/100 | N/A years |
 
@@ -7409,17 +7409,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | ServiceTitan, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 84 | 4 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7484,7 +7484,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 94 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 56/100 | Mobile score 45 |
 | Brand | 90/100 | 25.4 years |
 
@@ -7558,7 +7558,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 68/100 | 57 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -7601,11 +7601,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7683,7 +7683,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 1025 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 63/100 | Mobile score 46 |
 | Brand | 20/100 | N/A years |
 
@@ -7761,7 +7761,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 54/100 | 23 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -7805,11 +7805,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["GoDaddy Website Builder resources found"],"name":"GoDaddy Website Builder","version":null}  | Medium |
-| JS Frameworks | Angular, Bootstrap | Medium |
+| Framework | Angular, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (23 keywords with low/no search demand)
+**Wasteful Keywords** (23 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7874,7 +7874,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 176 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 10 pages |
+| Content | 20/100 | 10 Pages |
 | Technical | 77/100 | Mobile score 68 |
 | Brand | 20/100 | N/A years |
 
@@ -7921,11 +7921,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
-| JS Frameworks | Vue.js, Angular, jQuery, Bootstrap | Medium |
+| Framework | Vue.js, Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -7990,7 +7990,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 216 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 94 pages |
+| Content | 60/100 | 94 Pages |
 | Technical | 77/100 | Mobile score 64 |
 | Brand | 20/100 | 0.9 years |
 
@@ -8031,11 +8031,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Vue.js, Angular | Medium |
+| Framework | Vue.js, Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8100,7 +8100,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 155 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 8 pages |
+| Content | 20/100 | 8 Pages |
 | Technical | 81/100 | Mobile score 67 |
 | Brand | 20/100 | N/A years |
 
@@ -8150,11 +8150,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | ServiceTitan | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8236,7 +8236,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 94/100 | 31728 reviews |
 | SERP | 3/100 | 1 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 44/100 | Mobile score 44 |
 | Brand | 20/100 | N/A years |
 
@@ -8285,11 +8285,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Housecall Pro, ScheduleOnce, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8354,7 +8354,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 293 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 182 pages |
+| Content | 80/100 | 182 Pages |
 | Technical | 76/100 | Mobile score 83 |
 | Brand | 75/100 | 5.5 years |
 
@@ -8448,7 +8448,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 22 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | 0.2 years |
 
@@ -8492,17 +8492,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 2 | 2 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8567,7 +8567,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 253 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 97 pages |
+| Content | 60/100 | 97 Pages |
 | Technical | 73/100 | Mobile score 63 |
 | Brand | 50/100 | 2.9 years |
 
@@ -8659,7 +8659,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 58/100 | 25 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -8705,11 +8705,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Housecall Pro | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8774,7 +8774,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 4 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 10 pages |
+| Content | 20/100 | 10 Pages |
 | Technical | 89/100 | Mobile score 80 |
 | Brand | 20/100 | 0.4 years |
 
@@ -8821,11 +8821,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -8907,7 +8907,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 189 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 40/100 | 48 pages |
+| Content | 40/100 | 48 Pages |
 | Technical | 68/100 | Mobile score 57 |
 | Brand | 20/100 | N/A years |
 
@@ -8946,17 +8946,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | ServiceTitan, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 32 | 4 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9019,7 +9019,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 262 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 94/100 | Mobile score 99 |
 | Brand | 90/100 | 19.5 years |
 
@@ -9095,7 +9095,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 8 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -9142,17 +9142,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Vue.js, Angular, jQuery | Medium |
+| Framework | Vue.js, Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 46 | 3 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9217,7 +9217,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 3921 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 161 pages |
+| Content | 80/100 | 161 Pages |
 | Technical | 57/100 | Mobile score 48 |
 | Brand | 90/100 | 13.2 years |
 
@@ -9261,11 +9261,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9330,7 +9330,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 316 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 364 pages |
+| Content | 95/100 | 364 Pages |
 | Technical | 53/100 | Mobile score 38 |
 | Brand | 75/100 | 7.8 years |
 
@@ -9404,7 +9404,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 26 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -9449,11 +9449,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"5.5.17"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9518,7 +9518,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 75 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 74 pages |
+| Content | 60/100 | 74 Pages |
 | Technical | 65/100 | Mobile score 65 |
 | Brand | 75/100 | 5.7 years |
 
@@ -9560,17 +9560,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Housecall Pro, Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 11 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9634,7 +9634,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 187 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 41/100 | Mobile score 41 |
 | Brand | 90/100 | 16.3 years |
 
@@ -9714,7 +9714,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 58/100 | 24 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -9758,11 +9758,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Wix static resources found"],"name":"Wix","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -9820,7 +9820,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 59/100 | 39 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 12 pages |
+| Content | 40/100 | 12 Pages |
 | Technical | 71/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -9918,7 +9918,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 108 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 38/100 | Mobile score 33 |
 | Brand | 75/100 | 7.8 years |
 
@@ -9968,17 +9968,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 7 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10053,7 +10053,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 1121 reviews |
 | SERP | 3/100 | 1 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -10094,11 +10094,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Vue.js, Angular | Medium |
+| Framework | Vue.js, Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (1 keywords with low/no search demand)
+**Wasteful Keywords** (1 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10159,7 +10159,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 311 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 55/100 | Mobile score 60 |
 | Brand | 20/100 | N/A years |
 
@@ -10205,11 +10205,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (8 keywords with low/no search demand)
+**Wasteful Keywords** (8 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10274,7 +10274,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 23 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 81/100 | Mobile score 69 |
 | Brand | 20/100 | N/A years |
 
@@ -10321,11 +10321,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10390,7 +10390,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 481 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 48/100 | Mobile score 36 |
 | Brand | 20/100 | N/A years |
 
@@ -10438,11 +10438,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10507,7 +10507,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 315 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 41/100 | Mobile score 33 |
 | Brand | 20/100 | N/A years |
 
@@ -10557,11 +10557,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10643,7 +10643,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 95/100 | 2747 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 55/100 | Mobile score 45 |
 | Brand | 20/100 | N/A years |
 
@@ -10685,11 +10685,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10754,7 +10754,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 68/100 | 140 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 75/100 | Mobile score 59 |
 | Brand | 90/100 | 20.6 years |
 
@@ -10798,11 +10798,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10867,7 +10867,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 62 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 87/100 | Mobile score 79 |
 | Brand | 90/100 | 20.6 years |
 
@@ -10911,11 +10911,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Squarespace resources found"],"name":"Squarespace","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -10980,7 +10980,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 70/100 | 188 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 218 pages |
+| Content | 95/100 | 218 Pages |
 | Technical | 47/100 | Mobile score 37 |
 | Brand | 35/100 | 1.5 years |
 
@@ -11027,11 +11027,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11096,7 +11096,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 27 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 39 pages |
+| Content | 40/100 | 39 Pages |
 | Technical | 66/100 | Mobile score 56 |
 | Brand | 20/100 | N/A years |
 
@@ -11133,17 +11133,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 4 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11208,7 +11208,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 69/100 | 70 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 80/100 | 139 pages |
+| Content | 80/100 | 139 Pages |
 | Technical | 62/100 | Mobile score 54 |
 | Brand | 90/100 | 22.2 years |
 
@@ -11251,17 +11251,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Squarespace resources found"],"name":"Squarespace","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 29 | 2 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11343,7 +11343,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 292 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 80/100 | 192 pages |
+| Content | 80/100 | 192 Pages |
 | Technical | 54/100 | Mobile score 38 |
 | Brand | 20/100 | N/A years |
 
@@ -11435,7 +11435,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 45 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -11480,11 +11480,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Wix static resources found"],"name":"Wix","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11549,7 +11549,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 79/100 | 387 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 22 pages |
+| Content | 40/100 | 22 Pages |
 | Technical | 83/100 | Mobile score 75 |
 | Brand | 20/100 | 0.4 years |
 
@@ -11591,11 +11591,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["GoDaddy Website Builder resources found"],"name":"GoDaddy Website Builder","version":null}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (2 keywords with low/no search demand)
+**Wasteful Keywords** (2 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11657,7 +11657,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 16 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 6 pages |
+| Content | 20/100 | 6 Pages |
 | Technical | 95/100 | Mobile score 93 |
 | Brand | 20/100 | N/A years |
 
@@ -11704,17 +11704,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"4.9.3"}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 1 | 1 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11778,7 +11778,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 57/100 | 15 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 64 pages |
+| Content | 60/100 | 64 Pages |
 | Technical | 48/100 | Mobile score 47 |
 | Brand | 90/100 | 11.9 years |
 
@@ -11825,11 +11825,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -11894,7 +11894,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 67/100 | 93 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 60/100 | 56 pages |
+| Content | 60/100 | 56 Pages |
 | Technical | 83/100 | Mobile score 71 |
 | Brand | 20/100 | N/A years |
 
@@ -11934,17 +11934,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Category | Technology | Confidence |
 |----------|------------|------------|
-| JS Frameworks | Angular, jQuery, Bootstrap | Medium |
+| Framework | Angular, jQuery, Bootstrap | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 47 | 16 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12025,7 +12025,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 68/100 | 104 reviews |
 | SERP | 1/100 | 1 keywords tracked |
-| Content | 60/100 | 70 pages |
+| Content | 60/100 | 70 Pages |
 | Technical | 95/100 | Mobile score 95 |
 | Brand | 20/100 | N/A years |
 
@@ -12067,11 +12067,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Squarespace resources found"],"name":"Squarespace","version":null}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12136,7 +12136,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 7 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 39 pages |
+| Content | 40/100 | 39 Pages |
 | Technical | 71/100 | Mobile score 60 |
 | Brand | 20/100 | 0.9 years |
 
@@ -12177,17 +12177,17 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | Booking | Square Appointments | High |
-| JS Frameworks | Vue.js, Angular, jQuery | Medium |
+| Framework | Vue.js, Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Succeeding Keywords** (1 keywords capturing search demand)
+**Succeeding Keywords** (1 keyword capturing search demand)
 
 | Keyword | Volume | Frequency | Pages |
 |---------|--------|-----------|-------|
 | repiping | 1,900 | 34 | 2 |
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12269,7 +12269,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 90/100 | 899 reviews |
 | SERP | 3/100 | 1 keywords tracked |
-| Content | 80/100 | 122 pages |
+| Content | 80/100 | 122 Pages |
 | Technical | 67/100 | Mobile score 54 |
 | Brand | 20/100 | N/A years |
 
@@ -12312,11 +12312,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":"6.9"}  | Medium |
 | Booking | Housecall Pro | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12381,7 +12381,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 80/100 | 378 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 284 pages |
+| Content | 95/100 | 284 Pages |
 | Technical | 53/100 | Mobile score 39 |
 | Brand | 20/100 | N/A years |
 
@@ -12426,11 +12426,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["wp-content/wp-includes paths found"],"name":"WordPress","version":null}  | Medium |
 | Booking | Square Appointments | High |
-| JS Frameworks | Angular, jQuery | Medium |
+| Framework | Angular, jQuery | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12494,7 +12494,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 96/100 | 3392 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 95/100 | 230 pages |
+| Content | 95/100 | 230 Pages |
 | Technical | 80/100 | Mobile score 73 |
 | Brand | 20/100 | N/A years |
 
@@ -12569,7 +12569,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 2 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -12670,7 +12670,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 57/100 | 31 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 46/100 | Mobile score 37 |
 | Brand | 20/100 | N/A years |
 
@@ -12748,7 +12748,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 47/100 | 3 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -12848,7 +12848,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 97/100 | 1277 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 78/100 | Mobile score 73 |
 | Brand | 20/100 | N/A years |
 
@@ -12896,11 +12896,11 @@ This section provides detailed analysis for each of the 122 competitors identifi
 | Category | Technology | Confidence |
 |----------|------------|------------|
 | CMS | {"confidence":"High","evidence":["Squarespace resources found"],"name":"Squarespace","version":null}  | Medium |
-| JS Frameworks | Angular | Medium |
+| Framework | Angular | Medium |
 
 #### Keyword Analysis
 
-**Wasteful Keywords** (30 keywords with low/no search demand)
+**Wasteful Keywords** (30 keyword low/no search demand)
 
 | Keyword | Frequency | Volume |
 |---------|-----------|--------|
@@ -12965,7 +12965,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 13 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 40/100 | 24 pages |
+| Content | 40/100 | 24 Pages |
 | Technical | 54/100 | Mobile score 53 |
 | Brand | 20/100 | N/A years |
 
@@ -13060,7 +13060,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 57/100 | 12 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 2 pages |
+| Content | 20/100 | 2 Pages |
 | Technical | 60/100 | Mobile score 57 |
 | Brand | 20/100 | N/A years |
 
@@ -13135,7 +13135,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 15 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -13210,7 +13210,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 24 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -13286,7 +13286,7 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |-----------|-------|---------|
 | Reputation | 60/100 | 5 reviews |
 | SERP | 0/100 | 0 keywords tracked |
-| Content | 20/100 | 0 pages |
+| Content | 20/100 | 0 Pages |
 | Technical | 50/100 | Mobile score N/A |
 | Brand | 20/100 | N/A years |
 
@@ -13315,14 +13315,14 @@ This section provides detailed analysis for each of the 122 competitors identifi
 |----------|-------|---|
 | WordPress | 79 | 39% |
 | Angular | 65 | 32% |
+| GoDaddy Website Builder | 10 | 5% |
 | Wix | 10 | 5% |
 | Squarespace | 10 | 5% |
-| GoDaddy Website Builder | 10 | 5% |
 | Vue.js | 7 | 3% |
 | cloudflare (server) | 6 | 3% |
 | Custom | 4 | 2% |
 | nginx (server) | 2 | 1% |
-| Sucuri/Cloudproxy (server) | 2 | 1% |
+| Webflow | 2 | 1% |
 
 ### 6.2 Performance Distribution
 
