@@ -1149,20 +1149,27 @@ This section documents the scientific methodology used for data collection, stor
 | User agent | Custom (identifies as research crawler) | Ethical crawling practice |
 | Robots.txt | Respected | Compliance with site owner preferences |
 
-**Data Extracted Per Page:**
-| Data Point | Method |
-|------------|--------|
-| URL | Direct capture |
-| HTTP status code | Response header |
-| Response time (ms) | Timing measurement |
-| Title tag | HTML `<title>` parsing |
-| Meta description | `<meta name="description">` |
-| H1-H6 headings | DOM traversal |
-| Word count | Text extraction (excluding nav/footer) |
-| Internal links | `<a href>` parsing, same-domain filter |
-| External links | `<a href>` parsing, different-domain filter |
-| Images | `<img>` inventory with alt text |
-| Canonical URL | `<link rel="canonical">` |
+**Data Extracted & Stored Per Page:**
+| Data Point | Method | Storage |
+|------------|--------|---------|
+| URL | Direct capture | `website_pages.url` |
+| HTTP status code | Response header | `website_pages.status_code` |
+| Response time (ms) | Timing measurement | `website_pages.response_time_ms` |
+| **Full page content (text)** | HTML → plain text extraction | `website_pages.content_text` |
+| Title tag | HTML `<title>` parsing | `website_pages.title` |
+| Meta description | `<meta name="description">` | `website_pages.meta_description` |
+| Meta keywords | `<meta name="keywords">` | `website_pages.meta_keywords` |
+| H1 text | First `<h1>` element | `website_pages.h1_text` |
+| Heading hierarchy | All H1-H6 elements | `website_pages.heading_hierarchy` (JSON) |
+| Word count | Computed from content_text | `website_pages.word_count` |
+| Internal links | `<a href>` parsing, same-domain | `website_pages.internal_links` (JSON) |
+| External links | `<a href>` parsing, different-domain | `website_pages.external_links` (JSON) |
+| Images | `<img>` inventory with alt text | `website_pages.images` (JSON) |
+| Canonical URL | `<link rel="canonical">` | `website_pages.canonical_url` |
+| Content type | HTTP header | `website_pages.content_type` |
+| Crawl timestamp | System time | `website_pages.crawled_at` |
+
+**Content Storage:** Full extracted text content is stored for 7,127 pages (75% of crawled pages), enabling offline analysis, keyword extraction, and content quality assessment without re-crawling.
 
 **Boilerplate Detection:**
 Text appearing on >80% of pages with frequency variance <2 is flagged as boilerplate (navigation, footer, etc.) and excluded from keyword analysis.

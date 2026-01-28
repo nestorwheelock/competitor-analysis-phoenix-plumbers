@@ -366,6 +366,14 @@ Los números de licencia fueron extraídos de los sitios web de competidores per
 | Extracción de Palabras Clave | Procesamiento de lenguaje natural | 23,288 palabras clave |
 | Detección de Tecnología | Coincidencia de patrones multi-señal | 102 sitios |
 
+**Datos Extraídos Por Página:**
+- URL, código de estado HTTP, tiempo de respuesta
+- **Contenido completo de la página (texto)** - almacenado para análisis offline
+- Título, meta descripción, meta palabras clave
+- Texto H1 y jerarquía de encabezados (H1-H6)
+- Conteo de palabras, enlaces internos/externos, inventario de imágenes
+- URL canónica, tipo de contenido, marca de tiempo de rastreo
+
 ### Almacenamiento de Datos
 
 **Base de Datos:** SQLite 3.x (base de datos relacional basada en archivos)
@@ -373,9 +381,12 @@ Los números de licencia fueron extraídos de los sitios web de competidores per
 | Tabla | Registros | Descripción |
 |-------|-----------|-------------|
 | `competitors` | 122 | Información de negocios |
-| `website_pages` | 9,480 | Páginas rastreadas |
+| `website_pages` | 9,480 | Páginas rastreadas (7,127 con contenido completo) |
 | `performance_metrics` | 102 | Resultados de PageSpeed |
 | `technology_stacks` | 102 | Tecnologías detectadas |
+| `site_keywords` | 23,288 | Frecuencias de palabras clave por sitio |
+
+**Almacenamiento de Contenido:** El contenido de texto completo se almacena para 7,127 páginas (75% de las páginas rastreadas), permitiendo análisis offline, extracción de palabras clave y evaluación de calidad de contenido sin necesidad de volver a rastrear.
 
 ### Métodos Estadísticos
 
