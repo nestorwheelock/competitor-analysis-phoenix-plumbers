@@ -1,6 +1,6 @@
 # West Phoenix Plumber Complete Sitemap
 
-**Target:** 115+ pages focused exclusively on West Phoenix service area
+**Target:** 125+ pages focused exclusively on West Phoenix service area
 
 ---
 
@@ -10,11 +10,11 @@
 |----------|---------|--------|-----|
 | Core Pages | 4 | 4 | 0 |
 | Service Pages | 6 | 18 | 12 |
-| Service Variations | 0 | 23 | 23 |
+| Service Variations | 0 | 28 | 28 |
 | Location Pages | 9 | 17 | 8 |
 | Problem Pages | 2 | 40 | 38 |
-| Blog/Educational | 8 | 17 | 9 |
-| **TOTAL** | **29** | **119** | **90** |
+| Blog/Educational | 8 | 20 | 12 |
+| **TOTAL** | **29** | **127** | **98** |
 
 ---
 
@@ -98,7 +98,7 @@ These granular service pages target specific long-tail keywords with high commer
 | 17 | Toilet Replacement | `/services/toilet-replacement-phoenix/` | P2 | 1,600 |
 | 18 | Shower Valve Replacement | `/services/shower-valve-replacement-phoenix/` | P2 | 1,300 |
 
-### Valve & Supply Line Services (5)
+### Valve & Supply Line Services (7)
 
 | # | Service | URL | Priority | Search Vol |
 |---|---------|-----|----------|------------|
@@ -106,7 +106,17 @@ These granular service pages target specific long-tail keywords with high commer
 | 20 | Main Water Valve Repair | `/services/main-water-valve-repair-phoenix/` | P2 | 720 |
 | 21 | Pressure Reducing Valve Installation | `/services/pressure-reducing-valve-phoenix/` | P2 | 880 |
 | 22 | Hose Bib Repair | `/services/hose-bib-repair-phoenix/` | P2 | 590 |
-| 23 | Outdoor Faucet Repair | `/services/outdoor-faucet-repair-phoenix/` | P2 | 720 |
+| 23 | Hose Bib Replacement | `/services/hose-bib-replacement-phoenix/` | P2 | 480 |
+| 24 | Outdoor Faucet Repair | `/services/outdoor-faucet-repair-phoenix/` | P2 | 720 |
+| 25 | Ball Valve Installation | `/services/ball-valve-installation-phoenix/` | P2 | 390 |
+
+### Outdoor & Irrigation Services (3)
+
+| # | Service | URL | Priority | Search Vol |
+|---|---------|-----|----------|------------|
+| 26 | Sprinkler System Repair | `/services/sprinkler-system-repair-phoenix/` | P2 | 1,600 |
+| 27 | Irrigation System Installation | `/services/irrigation-system-installation-phoenix/` | P2 | 1,100 |
+| 28 | Sprinkler Valve Replacement | `/services/sprinkler-valve-replacement-phoenix/` | P2 | 720 |
 
 ---
 
@@ -299,7 +309,7 @@ These granular service pages target specific long-tail keywords with high commer
 | Water Heater Maintenance | `/blog/water-heater-maintenance/` | ✅ Done |
 | Sewer Line Repair Signs | `/blog/sewer-line-repair-signs/` | ✅ Done |
 
-### 5.2 New Blog Pages (9)
+### 5.2 New Blog Pages (12)
 
 | # | Topic | URL | Priority | Intent |
 |---|-------|-----|----------|--------|
@@ -312,6 +322,9 @@ These granular service pages target specific long-tail keywords with high commer
 | 7 | Signs Your Home Needs Repiping | `/blog/signs-home-needs-repiping/` | P2 | Commercial |
 | 8 | Hydro Jetting vs Snaking | `/blog/hydro-jetting-vs-snaking/` | P3 | Commercial |
 | 9 | Gas Line Safety Tips | `/blog/gas-line-safety-tips/` | P3 | Informational |
+| 10 | Ball Valve vs Gate Valve | `/blog/ball-valve-vs-gate-valve/` | P2 | Informational |
+| 11 | Smart Sprinkler Systems Guide | `/blog/smart-sprinkler-systems-phoenix/` | P2 | Informational |
+| 12 | Irrigation System Plumbing | `/blog/irrigation-system-plumbing-phoenix/` | P3 | Commercial |
 
 ---
 
@@ -641,11 +654,11 @@ HUB: /services/water-shut-off-valve-replacement-phoenix/
 |----------|-------|
 | Core Pages | 4 |
 | Service Pages | 18 |
-| Service Variation Pages | 23 |
+| Service Variation Pages | 28 |
 | Location Pages (West Phoenix Only) | 17 |
 | Problem Pages | 40 |
-| Blog Pages | 17 |
-| **TOTAL** | **119** |
+| Blog Pages | 20 |
+| **TOTAL** | **127** |
 
 ---
 

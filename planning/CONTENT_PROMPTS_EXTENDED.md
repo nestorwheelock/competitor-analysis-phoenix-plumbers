@@ -1273,6 +1273,215 @@ INTERNAL LINKS:
 - /problems/sewer-backup/
 ```
 
+### PROMPT SV.18 - Hose Bib Replacement Page
+
+```
+Write a hose bib replacement service page.
+
+TARGET: 1,200+ words
+URL: /services/hose-bib-replacement-phoenix/
+H1: Hose Bib Replacement in Phoenix, AZ
+
+PRIMARY KEYWORDS:
+- hose bib replacement (480/mo)
+- replace hose bib (320/mo)
+- outdoor faucet replacement (390/mo)
+
+REQUIRED SECTIONS:
+1. Introduction (150 words)
+2. Signs you need replacement (200 words)
+   - Constant leaking despite repairs
+   - Corroded or damaged body
+   - Valve won't close
+   - Cracked handle
+   - Freezing damage
+3. Types of hose bibs (200 words)
+   - Standard compression hose bibs
+   - Frost-free sillcocks
+   - Ball valve hose bibs
+   - Anti-siphon models
+4. Our replacement process (200 words)
+5. Upgrade options (150 words)
+   - Frost-free upgrade
+   - Quarter-turn ball valve
+   - Anti-siphon for code compliance
+6. Cost factors (100 words)
+7. FAQ section - 5 questions (200 words)
+
+INTERNAL LINKS:
+- /services/hose-bib-repair-phoenix/
+- /services/outdoor-faucet-repair-phoenix/
+```
+
+### PROMPT SV.19 - Ball Valve Installation Page
+
+```
+Write a ball valve installation service page.
+
+TARGET: 1,200+ words
+URL: /services/ball-valve-installation-phoenix/
+H1: Ball Valve Installation in Phoenix, AZ
+
+PRIMARY KEYWORDS:
+- ball valve installation (390/mo)
+- ball valve replacement (320/mo)
+- install ball valve (260/mo)
+
+REQUIRED SECTIONS:
+1. Introduction - what are ball valves (150 words)
+2. Ball valve advantages (200 words)
+   - Quarter-turn operation
+   - Full flow design
+   - Longer lifespan
+   - Less prone to failure
+3. Ball valve vs gate valve comparison (250 words)
+   - Comparison chart
+   - When to upgrade
+4. Applications (200 words)
+   - Main water shut-off
+   - Fixture supply lines
+   - Outdoor faucets
+   - Appliance connections
+5. Our installation process (150 words)
+6. Cost factors (100 words)
+7. FAQ section - 5 questions (200 words)
+
+INTERNAL LINKS:
+- /services/water-shut-off-valve-replacement-phoenix/
+- /blog/ball-valve-vs-gate-valve/
+```
+
+### PROMPT SV.20 - Sprinkler System Repair Page
+
+```
+Write a sprinkler system repair service page.
+
+TARGET: 1,500+ words
+URL: /services/sprinkler-system-repair-phoenix/
+H1: Sprinkler System Repair in Phoenix, AZ
+
+PRIMARY KEYWORDS:
+- sprinkler system repair (1,600/mo)
+- sprinkler repair near me (1,100/mo)
+- irrigation repair (880/mo)
+
+REQUIRED SECTIONS:
+1. Introduction (150 words)
+2. Common sprinkler problems we fix (300 words)
+   - Broken sprinkler heads
+   - Leaking valves
+   - Low water pressure
+   - Clogged nozzles
+   - Controller issues
+   - Pipe leaks
+   - Zone not working
+3. Types of systems we repair (200 words)
+   - Pop-up sprinklers
+   - Drip irrigation
+   - Rotary heads
+   - Smart systems
+4. Our repair process (200 words)
+5. Seasonal maintenance (150 words)
+6. When to repair vs replace (150 words)
+7. Cost factors (150 words)
+8. FAQ section - 6 questions (250 words)
+
+ARIZONA-SPECIFIC:
+- Desert landscaping irrigation needs
+- Water conservation requirements
+- Heat damage to components
+- Monsoon season considerations
+
+INTERNAL LINKS:
+- /services/irrigation-system-installation-phoenix/
+- /services/sprinkler-valve-replacement-phoenix/
+- /blog/smart-sprinkler-systems-phoenix/
+```
+
+### PROMPT SV.21 - Irrigation System Installation Page
+
+```
+Write an irrigation system installation service page.
+
+TARGET: 1,500+ words
+URL: /services/irrigation-system-installation-phoenix/
+H1: Irrigation System Installation in Phoenix, AZ
+
+PRIMARY KEYWORDS:
+- irrigation system installation (1,100/mo)
+- sprinkler system installation (880/mo)
+- install irrigation system (590/mo)
+
+REQUIRED SECTIONS:
+1. Introduction (150 words)
+2. Types of irrigation systems (300 words)
+   - Traditional spray systems
+   - Drip irrigation (water-efficient)
+   - Rotary systems
+   - Smart irrigation systems
+   - Combination systems
+3. Design considerations (250 words)
+   - Zone planning
+   - Water pressure requirements
+   - Plant watering needs
+   - Desert landscaping specific
+4. Smart irrigation technology (200 words)
+   - WiFi controllers
+   - Weather-based adjustment
+   - Soil moisture sensors
+   - Water savings
+5. Installation process (200 words)
+6. Permits and requirements (100 words)
+7. Cost factors (150 words)
+8. FAQ section - 6 questions (250 words)
+
+ARIZONA-SPECIFIC:
+- Water conservation rebate programs
+- Desert-adapted irrigation design
+- Xeriscape compatibility
+- City water restrictions
+
+INTERNAL LINKS:
+- /services/sprinkler-system-repair-phoenix/
+- /blog/irrigation-system-plumbing-phoenix/
+```
+
+### PROMPT SV.22 - Sprinkler Valve Replacement Page
+
+```
+Write a sprinkler valve replacement service page.
+
+TARGET: 1,200+ words
+URL: /services/sprinkler-valve-replacement-phoenix/
+H1: Sprinkler Valve Replacement in Phoenix, AZ
+
+PRIMARY KEYWORDS:
+- sprinkler valve replacement (720/mo)
+- irrigation valve replacement (480/mo)
+- replace sprinkler valve (390/mo)
+
+REQUIRED SECTIONS:
+1. Introduction (150 words)
+2. Signs of valve failure (200 words)
+   - Zone won't turn on
+   - Zone won't shut off
+   - Leaking around valve box
+   - Low pressure in zone
+   - Valve buzzing or humming
+3. Types of valves (200 words)
+   - Solenoid valves
+   - Anti-siphon valves
+   - Pressure vacuum breakers
+4. Our replacement process (200 words)
+5. Valve upgrade options (150 words)
+6. Cost factors (100 words)
+7. FAQ section - 5 questions (200 words)
+
+INTERNAL LINKS:
+- /services/sprinkler-system-repair-phoenix/
+- /services/irrigation-system-installation-phoenix/
+```
+
 ---
 
 ## 2. New Location Page Prompts (West Phoenix Focus)
@@ -2078,6 +2287,142 @@ ARTICLE STRUCTURE:
 7. FAQ section (200 words)
 
 TONE: Safety-focused, clear instructions.
+```
+
+### PROMPT B.9 - Ball Valve vs Gate Valve
+
+```
+Write a comparison blog post about valve types.
+
+TARGET: 1,500+ words
+URL: /blog/ball-valve-vs-gate-valve/
+H1: Ball Valve vs Gate Valve: Which Is Better for Your Home?
+
+PRIMARY KEYWORDS:
+- ball valve vs gate valve (590/mo)
+- difference between ball valve and gate valve (390/mo)
+- gate valve replacement (480/mo)
+
+ARTICLE STRUCTURE:
+1. Introduction - why valve type matters (150 words)
+2. What is a gate valve (200 words)
+   - How it works
+   - Pros and cons
+   - Common applications
+3. What is a ball valve (200 words)
+   - How it works
+   - Pros and cons
+   - Common applications
+4. Side-by-side comparison chart (200 words)
+   - Durability
+   - Ease of operation
+   - Flow restriction
+   - Cost
+   - Maintenance
+5. When to use each type (200 words)
+6. Why plumbers prefer ball valves (200 words)
+7. Should you upgrade your valves? (150 words)
+8. FAQ section - 6 questions (250 words)
+
+INTERNAL LINKS:
+- /services/ball-valve-installation-phoenix/
+- /services/water-shut-off-valve-replacement-phoenix/
+```
+
+### PROMPT B.10 - Smart Sprinkler Systems Guide
+
+```
+Write an educational blog post about smart irrigation technology.
+
+TARGET: 1,800+ words
+URL: /blog/smart-sprinkler-systems-phoenix/
+H1: Smart Sprinkler Systems: A Phoenix Homeowner's Guide
+
+PRIMARY KEYWORDS:
+- smart sprinkler system (880/mo)
+- smart irrigation controller (590/mo)
+- wifi sprinkler controller (480/mo)
+
+ARTICLE STRUCTURE:
+1. Introduction - water savings in Arizona (200 words)
+2. What are smart sprinkler systems (250 words)
+   - How they differ from traditional timers
+   - Weather-based technology
+   - Soil moisture sensors
+3. Benefits for Phoenix homeowners (300 words)
+   - Water savings (30-50%)
+   - Lower water bills
+   - Healthier landscaping
+   - Remote control via app
+   - Automatic weather adjustment
+4. Top smart controller features (250 words)
+   - WiFi connectivity
+   - Weather integration
+   - Zone control
+   - Water usage tracking
+   - Leak detection
+5. Popular brands and options (200 words)
+   - Rachio
+   - Hunter Hydrawise
+   - Rain Bird
+   - Orbit B-hyve
+6. Installation considerations (200 words)
+7. Phoenix water rebate programs (150 words)
+8. FAQ section - 6 questions (250 words)
+
+ARIZONA-SPECIFIC:
+- Phoenix water conservation requirements
+- Desert landscaping irrigation needs
+- Monsoon season automatic adjustment
+- Extreme heat considerations
+
+INTERNAL LINKS:
+- /services/sprinkler-system-repair-phoenix/
+- /services/irrigation-system-installation-phoenix/
+```
+
+### PROMPT B.11 - Irrigation System Plumbing
+
+```
+Write an informational blog post about irrigation plumbing.
+
+TARGET: 1,500+ words
+URL: /blog/irrigation-system-plumbing-phoenix/
+H1: Irrigation System Plumbing: What Phoenix Homeowners Need to Know
+
+PRIMARY KEYWORDS:
+- irrigation system plumbing (480/mo)
+- sprinkler system plumbing (390/mo)
+- irrigation pipe repair (320/mo)
+
+ARTICLE STRUCTURE:
+1. Introduction (150 words)
+2. Components of irrigation plumbing (300 words)
+   - Main supply line
+   - Backflow preventer
+   - Valves and valve boxes
+   - Lateral lines
+   - Sprinkler heads/drip emitters
+3. Common irrigation plumbing problems (300 words)
+   - Pipe leaks
+   - Broken connections
+   - Backflow issues
+   - Pressure problems
+   - Root intrusion
+4. DIY vs professional repairs (200 words)
+5. Backflow prevention requirements (200 words)
+6. When to call a plumber vs irrigation specialist (150 words)
+7. FAQ section - 5 questions (200 words)
+
+ARIZONA-SPECIFIC:
+- PVC pipe considerations in extreme heat
+- Backflow testing requirements
+- Water pressure issues
+
+INTERNAL LINKS:
+- /services/sprinkler-system-repair-phoenix/
+- /services/irrigation-system-installation-phoenix/
+- /services/sprinkler-valve-replacement-phoenix/
 ```
 
 ---
