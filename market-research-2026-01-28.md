@@ -3,10 +3,7 @@
 
 ## Comprehensive Competitive Intelligence Analysis | January 2026
 
-![Service Area Map](./service-map.png)
-*Target service area: Phoenix west valley including Surprise, Sun City, Sun City West, Glendale, and Peoria*
-
-**Report Generated:** 2026-01-28 15:07 UTC
+**Report Generated:** 2026-01-28 18:38 UTC
 **Geographic Focus:** Phoenix metropolitan area
 **Analysis Tool:** Plumber Market Research Platform
 
@@ -13316,16 +13313,16 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Platform | Count | % |
 |----------|-------|---|
-| WordPress | 79 | 39% |
-| Angular | 65 | 32% |
-| GoDaddy Website Builder | 10 | 5% |
-| Wix | 10 | 5% |
-| Squarespace | 10 | 5% |
-| Vue.js | 7 | 3% |
-| cloudflare (server) | 6 | 3% |
-| Custom | 4 | 2% |
-| nginx (server) | 2 | 1% |
-| Webflow | 2 | 1% |
+| WordPress | 39 | 40% |
+| Angular | 30 | 30% |
+| GoDaddy Website Builder | 5 | 5% |
+| Squarespace | 5 | 5% |
+| Wix | 5 | 5% |
+| Vue.js | 4 | 4% |
+| cloudflare (server) | 3 | 3% |
+| Custom | 2 | 2% |
+| nginx (server) | 1 | 1% |
+| Sucuri/Cloudproxy (server) | 1 | 1% |
 
 ### 6.2 Performance Distribution
 
@@ -13333,10 +13330,10 @@ This section provides detailed analysis for each of the 122 competitors identifi
 
 | Range | Count | % |
 |-------|-------|---|
-| Poor (0-49) | 66 | 32% |
-| Needs Improvement (50-79) | 108 | 53% |
-| Good (80-89) | 11 | 5% |
-| Excellent (90+) | 19 | 9% |
+| Poor (0-49) | 32 | 31% |
+| Needs Improvement (50-79) | 56 | 55% |
+| Good (80-89) | 5 | 5% |
+| Excellent (90+) | 9 | 9% |
 
 ### 6.3 Competitive Clustering
 
@@ -13348,6 +13345,42 @@ Based on entity classification and competitive power analysis:
 | Regional Brands | 18 | Multiple locations or 500-2000 reviews |
 | Enterprise Networks | 8 | Large operations, >2000 reviews |
 | Brand Aggregators | 0 | Multi-service companies |
+
+### 6.4 ADA Compliance Analysis
+
+Website accessibility (ADA compliance) is increasingly important for both legal risk and SEO ranking. Google considers accessibility signals in search rankings.
+
+**Compliance Issues Detected:**
+
+| Issue | Count | % of Sites |
+|-------|-------|------------|
+| Poor/No Alt Text | 19 | 24% |
+| Missing Skip Links | 78 | 100% |
+| No H1 Heading | 17 | 22% |
+| Empty Links (>3) | 21 | 27% |
+| Form Fields Missing Labels | 24 | 31% |
+
+**Competitors with Multiple ADA Issues:**
+
+| Competitor | Reviews | Issues |
+|------------|---------|--------|
+| Plumbing Masters | 3921 | Alt text: None, 5 empty links |
+| Christian Brothers Plumbing, A/C, & Electrical | 2105 | 5 empty links, 8 form fields missing labels |
+| 100% Plumbing | 1595 | Alt text: None, 7 form fields missing labels |
+| Grand Canyon Home Services | 331 | Alt text: None, 6 empty links |
+| Patriotic Plumbing And Rooter | 293 | 13 empty links, 1 form fields missing labels |
+| PlumbSmart Plumbing Heating and Air | 262 | 6 empty links, 16 form fields missing labels |
+| Phay Plumbing services LLC | 253 | Alt text: None, 7 form fields missing labels |
+| Pink Plumbing and Sewer | 189 | Alt text: None, No H1 heading |
+| All Drains Emergency Plumbing | 186 | 9 empty links, 3 form fields missing labels |
+| Hotrod plumbing | 159 | Alt text: None, 16 empty links, 1 form fields missing labels |
+| POP Plumbing LLC - Glendale | 155 | 9 empty links, 3 form fields missing labels |
+| Sav-On Plumbing | 140 | 6 empty links, 4 form fields missing labels |
+| Alpha-Plumbing Services | 113 | Alt text: None, 1 form fields missing labels |
+| Forrest Anderson Plumbing & Air Conditioning | 108 | No H1 heading, 11 form fields missing labels |
+| Sunstate Plumbing, Inc | 104 | 13 empty links, 1 form fields missing labels |
+
+*Note: ADA non-compliance creates legal liability. Serial ADA litigants actively target businesses with accessibility issues.*
 
 ---
 

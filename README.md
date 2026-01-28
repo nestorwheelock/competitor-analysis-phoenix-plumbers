@@ -30,6 +30,7 @@ The Phoenix plumbing market appears crowded but is structurally inefficient: a f
 - **54 high-volume keywords have ZERO competitor coverage** - representing 200K+ monthly searches of untapped opportunity
 - **34% of competitors have poor mobile performance** - technical excellence provides immediate differentiation
 - **Geographic gaps exist** in Sun City West, Waddell, and Luke AFB areas with minimal competition
+- **100% of competitors lack skip links and 31% have form accessibility issues** - ADA compliance is a significant vulnerability across the market
 
 ---
 
@@ -59,6 +60,7 @@ Finally, the plan emphasizes technical and experiential quality as a force multi
 | Technical Standards | Only 66% have acceptable mobile scores; 80+ score = top quartile |
 | Geographic Gaps | Waddell, Luke AFB, Sun City West underserved |
 | Market Churn | 24 competitors under 5 years old - barriers manageable |
+| ADA Compliance | 100% missing skip links, 31% have form issues - accessibility is a market-wide weakness |
 
 ### Weaknesses (Challenges for New Entrants)
 
@@ -78,6 +80,7 @@ Finally, the plan emphasizes technical and experiential quality as a force multi
 | Location Pages | Target ZIP 85355 (Waddell), 85309 (Luke AFB), 85351 (Sun City) |
 | Content Depth | 2,000+ word service pages exceed most competitors |
 | Mobile Performance | 80+ score places you in top 20% |
+| ADA Compliance | Full accessibility compliance differentiates and reduces legal risk |
 
 ### Threats (External Risks)
 
@@ -103,6 +106,36 @@ Finally, the plan emphasizes technical and experiential quality as a force multi
 | Total Pages Crawled | 9,480 | All competitor sites |
 | Unique Keywords | 23,288 | Extracted from content |
 | Avg Mobile Score | 61/100 | Lighthouse performance |
+
+---
+
+## ADA Compliance Analysis
+
+Website accessibility (ADA compliance) is increasingly important for both legal risk and SEO ranking. Google considers accessibility signals in search rankings, and serial ADA litigants actively target businesses with accessibility issues.
+
+### Market-Wide Accessibility Issues
+
+| Issue | Count | % of Sites |
+|-------|-------|------------|
+| Missing Skip Links | 78 | 100% |
+| Form Fields Missing Labels | 24 | 31% |
+| Empty Links (>3) | 21 | 27% |
+| Poor/No Alt Text | 19 | 24% |
+| No H1 Heading | 17 | 22% |
+
+### Competitors with Multiple ADA Issues
+
+These high-visibility competitors have significant accessibility vulnerabilities:
+
+| Competitor | Reviews | Issues |
+|------------|---------|--------|
+| Plumbing Masters | 3,921 | No alt text, 5 empty links |
+| Christian Brothers Plumbing | 2,105 | 5 empty links, 8 form fields missing labels |
+| 100% Plumbing | 1,595 | No alt text, 7 form fields missing labels |
+| Grand Canyon Home Services | 331 | No alt text, 6 empty links |
+| PlumbSmart Plumbing | 262 | 6 empty links, 16 form fields missing labels |
+
+**Strategic Implication:** Full ADA compliance provides both SEO advantage and legal protection. Competitors with accessibility issues face potential litigation and ranking penalties.
 
 ---
 
